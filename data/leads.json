@@ -2466,5 +2466,21 @@
       "https://icoiffeur.fr/06/nice/45th-barber-street-2rjq"
     ],
     "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "LM Café",
+    "category": "café",
+    "city": "Poitiers",
+    "country": "France",
+    "phone": "",
+    "email": "lmcafepoitiers@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Declined: cumul emploi-retraite / fin de vie commerciale (James Lay)",
+    "emailedAt": "2026-09-08T14:55:34.000Z",
+    "replied": true,
+    "repliedAt": "2026-09-08T15:32:07.000Z",
+    "score": 80,
+    "sourceUrls": []
   }
 ]
