@@ -1,1 +1,2470 @@
-[{"name":"Garage Blanc","category":"garage/carrosserie","city":"Lyon","country":"France","phone":"04 78 28 48 16","email":"garage-blanc0@orange.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Pages Jaunes + LesGarages; no standalone site","emailedAt":"2026-09-08T08:20:07.000Z","replied":false,"score":82,"sourceUrls":["https://www.pagesjaunes.fr/pros/04369612","https://lesgarages.fr/69/lyon/garage-blanc-1t7q"]},{"name":"Société Nouvelle du Garage de France","category":"garage automobile","city":"Lyon","country":"France","phone":"04 78 54 18 78","email":"sngf2@wanadoo.fr","websiteStatus":"POOR","websiteUrl":"https://www.peugeotproximity.fr/garage/societe-nouvelle-du-garage-de-france","notes":"Peugeot portal","emailedAt":null,"replied":false,"score":84},{"name":"macBAR","category":"café/bar/restaurant","city":"Lyon","country":"France","phone":"","email":"robin@macbar.fr","websiteStatus":"POOR","websiteUrl":"https://www.mac-lyon.com/fr/cafe-restaurant-et-boutique","notes":"macLYON","emailedAt":null,"replied":false,"score":72},{"name":"La Kolok","category":"beer bar/restaurant","city":"Lyon","country":"France","phone":"04 26 55 96 25","email":"","websiteStatus":"POOR","websiteUrl":"https://linktr.ee/la_kolok","notes":"Linktree","emailedAt":null,"replied":false,"score":62},{"name":"Le Madras Café","category":"restaurant","city":"Lyon","country":"France","phone":"07 52 22 35 60","email":"","websiteStatus":"NONE","websiteUrl":"","notes":"No site","emailedAt":null,"replied":false,"score":62},{"name":"Garage Saint Just","category":"garage automobile","city":"Lyon","country":"France","phone":"04 78 25 35 80","email":"","websiteStatus":"POOR","websiteUrl":"","notes":"Peugeot portal","emailedAt":null,"replied":false,"score":58},{"name":"Garage du Mail","category":"garage automobile","city":"Lyon","country":"France","phone":"04 78 29 53 14","email":"","websiteStatus":"POOR","websiteUrl":"","notes":"Eurorepar","emailedAt":null,"replied":false,"score":57},{"name":"Garage de l'Europe","category":"garage automobile","city":"Lyon","country":"France","phone":"04 78 83 68 73","email":"","websiteStatus":"POOR","websiteUrl":"","notes":"Eurorepar","emailedAt":null,"replied":false,"score":55},{"name":"Le Sud-Ouest","category":"restaurant","city":"Lyon","country":"France","phone":"04 78 72 72 04","email":"","websiteStatus":"POOR","websiteUrl":"https://restaurant-le-sud-ouest.fr/","notes":"Sparse site","emailedAt":null,"replied":false,"score":55},{"name":"Coiffure des Arts","category":"salon","city":"Lyon","country":"France","phone":"04 78 42 96 68","email":"coiffuredesarts@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.coiffuredesarts.fr/contact","notes":"44 Rue Franklin, 69002 Lyon; basic contact/service page.","score":94,"sourceUrls":["https://www.coiffuredesarts.fr/contact"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Wilfrid Karloff","category":"salon","city":"Lyon","country":"France","phone":"04 72 00 31 96","email":"wilfridkarloff@gmail.com","websiteStatus":"POOR","websiteUrl":"https://wilfrid-karloff.com/salon-de-coiffure/lyon","notes":"65 Avenue des Frères Lumière, 69008 Lyon; compact local salon site.","score":92,"sourceUrls":["https://wilfrid-karloff.com/salon-de-coiffure/lyon"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Cabana Café","category":"cafe","city":"Lyon","country":"France","phone":null,"email":"contact.cabanacafe@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.cabana-cafe.com/mentions-legales/","notes":"Legal page identifies 30 rue de l’Annonciade, 69001 Lyon; no phone shown.","score":90,"sourceUrls":["https://www.cabana-cafe.com/mentions-legales/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Bambino Ristorante Lyon","category":"restaurant","city":"Lyon","country":"France","phone":"09 81 71 75 43","email":"bambinorestaurantlyon@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.bambino-lyon.com/blank-1-1","notes":"1 Place du Petit Collège, 69005 Lyon; small Wix-style site.","score":90,"sourceUrls":["https://www.bambino-lyon.com/blank-1-1"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Ravioli Gourmet","category":"restaurant","city":"Lyon","country":"France","phone":"04 78 54 43 23","email":"ravioligourmetlyon@gmail.com","websiteStatus":"POOR","websiteUrl":"https://ravioli-gourmet-lyon.fr/fr/","notes":"234 Rue Paul Bert, 69003 Lyon; limited restaurant microsite.","score":89,"sourceUrls":["https://ravioli-gourmet-lyon.fr/fr/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"KINOKO","category":"restaurant","city":"Lyon","country":"France","phone":"04 78 69 39 50","email":"kinoko.restaurant.lyon@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.kinoko-lyon.com/contact","notes":"34 Rue Bancel, 69007 Lyon; simple contact page.","score":89,"sourceUrls":["https://www.kinoko-lyon.com/contact"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Restaurant 77","category":"restaurant","city":"Lyon","country":"France","phone":"04 72 36 31 41","email":"le77partdieu@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.restaurant77.com/","notes":"77 Bd Marius Vivier Merle, 69003 Lyon; local brochure-style site.","score":87,"sourceUrls":["https://www.restaurant77.com/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Boulangerie Albon","category":"bakery","city":"Lyon","country":"France","phone":"04 72 98 34 28","email":"info@boulangeriealbon.lat","websiteStatus":"POOR","websiteUrl":"https://boulangeriealbon.lat/","notes":"11 Rue Chavanne, 69001 Lyon; small artisan site. | bounce","score":88,"sourceUrls":["https://boulangeriealbon.lat/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false,"bounced":true},{"name":"MÔM Boulangerie","category":"bakery","city":"Lyon","country":"France","phone":"09 87 05 64 57","email":"tentationorientale@gmail.com","websiteStatus":"POOR","websiteUrl":"https://momboulangerie.com/","notes":"31 rue Maryse Bastié, Lyon 8; modest local site.","score":88,"sourceUrls":["https://momboulangerie.com/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Boulangerie POP","category":"bakery","city":"Lyon","country":"France","phone":null,"email":"contact@boulangeriepop.fr","websiteStatus":"POOR","websiteUrl":"https://boulangeriepop.fr/","notes":"60 Rue de Cuire, 69004 Lyon; phone not shown in source.","score":86,"sourceUrls":["https://boulangeriepop.fr/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"L’Echappée Végétale","category":"florist","city":"Lyon","country":"France","phone":"06 01 43 61 96","email":"bonjour@lechappee-vegetale.fr","websiteStatus":"POOR","websiteUrl":"https://lechappee-vegetale.fr/","notes":"Atelier at 51 Rue Bossuet, 69006 Lyon; small workshop site.","score":86,"sourceUrls":["https://lechappee-vegetale.fr/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Yoni Coiffure","category":"salon","city":"Paris","country":"France","phone":"01 47 05 49 05","email":"yonicoiffure@gmail.com","websiteStatus":"POOR","websiteUrl":"https://yonicoiffure-lemomentpresent.fr/reservation-salon-coiffure-paris-7/","notes":"Public booking page for Paris 7 salon.","score":91,"sourceUrls":["https://yonicoiffure-lemomentpresent.fr/reservation-salon-coiffure-paris-7/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Joël Dessault","category":"barber","city":"Paris","country":"France","phone":null,"email":"joel.dessault@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.coiffeur-homme-paris.fr/contact","notes":"74 Boulevard Saint-Germain, 75005 Paris; phone not shown.","score":88,"sourceUrls":["https://www.coiffeur-homme-paris.fr/contact"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Valessio Coiffeur","category":"salon","city":"Paris","country":"France","phone":null,"email":"novalessio.paris@gmail.com","websiteStatus":"POOR","websiteUrl":"https://valessio-coiffeur-paris.fr/en/privacy-policy/","notes":"19 Rue de Châteaudun, 75009 Paris; phone not shown. | bounce","score":86,"sourceUrls":["https://valessio-coiffeur-paris.fr/en/privacy-policy/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false,"bounced":true},{"name":"La Gorgée","category":"restaurant","city":"Paris","country":"France","phone":"01 43 22 41 14","email":"lagorgee.restaurant@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.lagorgee.com/","notes":"22 rue de Fleurus, 75006 Paris; basic bistrot site.","score":89,"sourceUrls":["https://www.lagorgee.com/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Le Bon Saint Pourçain","category":"restaurant","city":"Paris","country":"France","phone":"01 42 01 78 24","email":"restaurantlebonsaintpourcain@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.bonsaintpourcain.com/","notes":"10bis rue Servandoni, 75006 Paris; small restaurant site.","score":89,"sourceUrls":["https://www.bonsaintpourcain.com/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Bistrot Le Rennequin","category":"restaurant","city":"Paris","country":"France","phone":"09 81 59 46 85","email":"lerennequin@gmail.com","websiteStatus":"POOR","websiteUrl":"https://lerennequin.com/","notes":"67 rue Rennequin, 75017 Paris; basic local bistrot presence.","score":88,"sourceUrls":["https://lerennequin.com/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Café des Deux Moulins","category":"cafe","city":"Paris","country":"France","phone":null,"email":"cafedesdeuxmoulinsparis@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.cafedesdeuxmoulins.com/","notes":"15 Rue Lepic, 75018 Paris; phone not shown.","score":84,"sourceUrls":["https://www.cafedesdeuxmoulins.com/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Brasserie Naï","category":"restaurant","city":"Paris","country":"France","phone":"01 43 80 52 16","email":"nai.brasserie@gmail.com","websiteStatus":"POOR","websiteUrl":"https://nai-brasserie.fr/","notes":"8 avenue de la Grande Armée, 75017 Paris; family-brasserie site.","score":87,"sourceUrls":["https://nai-brasserie.fr/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Coiffure Véronique","category":"salon","city":"Marseille","country":"France","phone":"04 91 61 21 36","email":"veronique.ardouin@gmail.com","websiteStatus":"POOR","websiteUrl":"https://coiffure-marseille-12.fr/","notes":"1 Bd Debord, 13012 Marseille; compact local salon site.","score":91,"sourceUrls":["https://coiffure-marseille-12.fr/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"David Louder Madrague by Céline","category":"salon","city":"Marseille","country":"France","phone":"04 91 73 03 66","email":"lesalondelamadrague@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.davidlouder-madrague.fr/","notes":"54 avenue de la Madrague de Montredon, 13008 Marseille.","score":90,"sourceUrls":["https://www.davidlouder-madrague.fr/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"COIFFGIRLS","category":"salon","city":"Marseille","country":"France","phone":"07 60 25 71 92","email":"coiffgirls@gmail.com","websiteStatus":"NONE","websiteUrl":null,"notes":"Public LinkedIn profile identifies Marseille salon and reservation contact; no standalone site found.","score":94,"sourceUrls":["https://www.linkedin.com/in/coiffgirlsmarseille"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Cartier Coiffure","category":"salon","city":"Marseille","country":"France","phone":"04 91 33 14 18","email":"cartiercoiffure@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.cartiercoiffure.fr/","notes":"20 Rue Armény, 13006 Marseille; compact local site.","score":88,"sourceUrls":["https://www.cartiercoiffure.fr/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Poumpo","category":"cafe","city":"Marseille","country":"France","phone":"04 91 33 11 52","email":"contactpoumpo@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.poumpo.fr/mentions-legales","notes":"Café-sandwicherie at 5 rue Glandevès, 13001 Marseille; basic legal/contact page.","score":90,"sourceUrls":["https://www.poumpo.fr/mentions-legales"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"La Gerbe d’Or","category":"restaurant","city":"Marseille","country":"France","phone":"04 91 43 03 19","email":"agu.MIKA.MA@gmail.com","websiteStatus":"POOR","websiteUrl":"https://la-gerbe-dor-restaurant-marseille.metro.bar/?lang=en","notes":"6 avenue César Boy, 13011 Marseille; directory-hosted microsite.","score":86,"sourceUrls":["https://la-gerbe-dor-restaurant-marseille.metro.bar/?lang=en"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"La Poule Noire","category":"restaurant","city":"Marseille","country":"France","phone":"04 91 55 68 86","email":"lapoulenoirerestaurant@gmail.com","websiteStatus":"POOR","websiteUrl":"http://restaurant-lapoulenoire.com","notes":"Directory entry: 61 rue Sainte, 13001 Marseille; verify current details.","score":83,"sourceUrls":["https://annuaire-france.net/Annuaire/Details_infos.php?activite=Restaurants&e=Restaurant+La+Poule+Noire+SARL+DS+FAMILY&id=117446&p=restaurant-lapoulenoire&ville=Marseille"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Kakapo","category":"cafe","city":"Marseille","country":"France","phone":"04 84 26 74 78","email":"kakapo.marseille@gmail.com","websiteStatus":"POOR","websiteUrl":"https://kakapostore.fr/contact/","notes":"Salon de thé at 31 Boulevard de la Libération, 13001 Marseille.","score":87,"sourceUrls":["https://kakapostore.fr/contact/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Les Sœurs M","category":"salon","city":"Toulouse","country":"France","phone":"05 61 21 21 56","email":"lessoeursmtoulouse@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.lessoeursm-salondecoiffure.fr/","notes":"8 Rue John-Fitzgerald Kennedy, 31000 Toulouse; small salon site.","score":91,"sourceUrls":["https://www.lessoeursm-salondecoiffure.fr/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Campagne","category":"restaurant","city":"Toulouse","country":"France","phone":"05 62 17 05 92","email":"campagnetoulouse@gmail.com","websiteStatus":"POOR","websiteUrl":"https://campagnetoulouse.fr/","notes":"Cave à manger in central Toulouse; Gmail listed for group reservations.","score":87,"sourceUrls":["https://campagnetoulouse.fr/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Le Bol Bu","category":"cafe","city":"Toulouse","country":"France","phone":"05 61 21 11 31","email":"lebolbu94@gmail.com","websiteStatus":"NONE","websiteUrl":null,"notes":"Tourism directory lists salon de thé at 8 Rue du May, 31000 Toulouse and phone/email; no standalone site shown.","score":92,"sourceUrls":["https://www.hautegaronnetourisme.com/restaurants/le-bol-bu/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Un Petit Gateau","category":"bakery","city":"Toulouse","country":"France","phone":"05 61 52 39 54","email":"unpetitgateau.toulouse@gmail.com","websiteStatus":"POOR","websiteUrl":"https://www.unpetitgateau.com/","notes":"3 rue Temponières, 31000 Toulouse; focused small-business site.","score":88,"sourceUrls":["https://www.unpetitgateau.com/"],"emailedAt":"2026-09-07T22:29:05Z","replied":false},{"name":"Garage Taxi Forte","category":"garage automobile","city":"Lyon","country":"France","phone":"04 78 72 88 97","email":"sarlforte@orange.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Solocal/Pages Jaunes microsite only; directories confirm no dedicated site","emailedAt":"2026-09-08T08:20:07.000Z","replied":false,"score":80,"sourceUrls":["https://sarlforte.site-solocal.com/","https://infonet.fr/entreprises/51474838300015-garage-taxi-forte/"]},{"name":"Cinq et sens","category":"coiffeur","city":"Lyon","country":"France","phone":"04 78 53 29 36","email":"amel.benmane@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"e-pro: Site non communiqué; Solocal microsite only","emailedAt":"2026-09-08T08:20:07.000Z","replied":false,"score":85,"sourceUrls":["https://cinqetsens.site-solocal.com/","https://coiffure.e-pro.fr/rhone/benmane-amal_f4947119"]},{"name":"Karelys","category":"coiffeur","city":"Nantes","country":"France","phone":"02 40 73 55 31","email":"karelys@orange.fr","websiteStatus":"NONE","websiteUrl":"","notes":"e-pro Site non communiqué; Solocal directory email","emailedAt":"2026-09-08T08:20:07.000Z","replied":false,"score":84,"sourceUrls":["https://karelys.site-solocal.com/","https://coiffure.e-pro.fr/loire-atlantique/snc-karelys_f2689597"]},{"name":"Séverine Coiffure","category":"coiffeur","city":"Nantes","country":"France","phone":"02 40 59 17 04","email":"severine.phanuel@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"Solocal microsite lists public email; no standalone salon site found","emailedAt":"2026-09-08T08:20:07.000Z","replied":false,"score":78,"sourceUrls":["https://angelisscoiffure.site-solocal.com/"]},{"name":"Garage du Coin du 44","category":"garage automobile","city":"Nantes","country":"France","phone":"06 11 61 67 36","email":"garageducoindu44@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"LesGarages email, Pappers site internet non disponible","emailedAt":"2026-09-08T08:20:07.000Z","replied":false,"score":86,"sourceUrls":["https://lesgarages.fr/44/nantes/garage-du-coin-du-44-1lff","https://www.pappers.fr/entreprise/garage-du-coin-du-44-820628238"]},{"name":"Garage des Coteaux","category":"garage automobile","city":"Toulouse","country":"France","phone":"05 61 47 31 05","email":"garagedescoteaux31@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"LesGarages email; no independent website in directories","emailedAt":"2026-09-08T08:20:07.000Z","replied":false,"score":85,"sourceUrls":["https://lesgarages.fr/31/toulouse/garage-des-coteaux-2mta","https://www.pagesjaunes.fr/pros/57081546"]},{"name":"Planète Auto","category":"garage automobile","city":"Saint-Jean-de-Védas","country":"France","phone":"","email":"planeteauto34@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"LesGarages lists email with no Site web field; no dedicated company site found | Reply interest; demo link sent https://hajmizakaria7-cmd.github.io/planete-auto-demo/","emailedAt":"2026-09-08T08:20:07.000Z","replied":true,"score":80,"sourceUrls":["https://lesgarages.fr/34/saint-jean-de-vedas/planete-autos-1kul"],"repliedAt":"2026-09-08T08:30:43.000Z"},{"name":"Alain Fleurs","category":"fleuriste","city":"Castillon-la-Bataille","country":"France","phone":"05 57 40 15 25","email":"alainfleurs@orange.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Solocal microsite email; marketplace listings only, no own site","emailedAt":"2026-09-08T08:20:07.000Z","replied":false,"score":79,"sourceUrls":["https://alainfleurs.site-solocal.com/"]},{"name":"Colombe Coiffure","category":"coiffeur","city":"Bruxelles","country":"Belgium","phone":"+32 2 327 18 52","email":"colombecoiffure@yahoo.com","websiteStatus":"NONE","websiteUrl":"","notes":"Belgian company filing explicitly: no website; public email in statutes; Pagesdor listing | bounce","emailedAt":"2026-09-08T08:20:07.000Z","replied":false,"score":90,"sourceUrls":["https://busibee.be/fr/0730764841-colombe-coiffure/publications/1cA8NH2koiH6LEQYc6BpbU/19327058.pdf","https://www.pagesdor.be/entreprises/Saint-Gilles/instituts+de+beaut%C3%A9/"],"bounced":true},{"name":"Elyess Coiffure","category":"coiffeur","city":"Lyon","country":"France","phone":"04 37 28 98 87","email":"sebastienforge3@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"64 Av. Jean Jaurès 69007. Email public on icoiffeur; Facebook only; Planity booking page (not standalone site). SIRET 45121283100015.","score":88,"sourceUrls":["https://icoiffeur.fr/69/lyon/elyess-coiffure-rp1","https://www.planity.com/elyess-coiffure-69007-lyon"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"L'Atelier","category":"coiffeur","city":"Lyon","country":"France","phone":"04 72 98 83 28","email":"latelierlyon1@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"15 Rue Lanterne 69001. Email on icoiffeur; FB/IG @latelierlyon1; Planity only. No standalone domain found. SIRET 50350172800011.","score":90,"sourceUrls":["https://icoiffeur.fr/69/lyon/l-atelier-rv3","https://www.planity.com/latelier-69001-lyon","https://unilocal.fr/france/lyon/latelier-74221"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Salon B'Yohann","category":"coiffeur","city":"Lyon","country":"France","phone":"04 72 34 03 95","email":"salon.byohann@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"73 Cours Dr Long 69003. Email on icoiffeur; only Planity/Fresha booking (not standalone site). SIRET 91746791200015.","score":84,"sourceUrls":["https://icoiffeur.fr/69/lyon/salon-b-yohann-2p24","https://www.planity.com/salon-byohann-69003-lyon/reservation","https://www.fresha.com/fr/lvp/salon-byohann-cours-docteur-long-lyon-P28MEw"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Salon 49","category":"coiffeur","city":"Lyon","country":"France","phone":"04 78 00 93 96","email":"eurl.andrea@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"49 Av. des Frères Lumière 69008. Email+Facebook on icoiffeur; no standalone site. SIRET 39305216200012.","score":87,"sourceUrls":["https://icoiffeur.fr/69/lyon/salon-49-rso","https://www.planity.com/salon-49-69008-lyon","https://www.horaire-et-annuaire.fr/coiffeur/rhone/lyon/244465-salon-49"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Coiffure Christophe","category":"coiffeur","city":"Lyon","country":"France","phone":"04 78 24 86 82","email":"avakian.christophe@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"3 Place Jules Ferry 69006. Email on icoiffeur; Planity listing only; no standalone domain. SIRET 38333125300013.","score":86,"sourceUrls":["https://icoiffeur.fr/69/lyon/coiffure-christophe-1mrt","https://www.planity.com/coiffure-christophe-69006-lyon"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Emma Delorme","category":"coiffeur","city":"Paris","country":"France","phone":"","email":"edelorme.emma@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"9 Rue Gay-Lussac 75005. Email public on icoiffeur; no website field; directories confirm no official site. Enseigne Emma Delorme / DS Lussac SIRET 43294066600014.","score":85,"sourceUrls":["https://icoiffeur.fr/75/paris/emma-delorme-1ov2","https://fr.mappy.com/poi/61302d468b565f317c3649fc","https://www.fnc.fr/salons-de-coiffure/75105-paris-05/cijfegfebaciifbjaca.htm"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Thérésa Beauty","category":"coiffeur","city":"Paris","country":"France","phone":"01 42 52 02 55","email":"theresa.beauty2@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"3 Rue Poulet 75018. Email+Facebook on icoiffeur; tel.fr/Fresha confirm email+phone; no standalone site. SIRET 43398725200015.","score":89,"sourceUrls":["https://icoiffeur.fr/75/paris/theresa-beauty-vb1","https://www.tel.fr/pro/paris-75/18eme-arrondissement/entreprise/49593188-theresa-beauty-theresa-kyeiwaa","https://www.fresha.com/fr/lvp/theresa-beauty-rue-poulet-paris-6QgGBP"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"L'Art du Volume","category":"coiffeur","city":"Marseille","country":"France","phone":"04 91 71 74 57","email":"ghazaryanmarine181@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"4 Bd Gaston Ramon 13009. Email+Facebook on icoiffeur; directories/Planity only; no standalone domain. SIRET 54003526800015.","score":88,"sourceUrls":["https://icoiffeur.fr/13/marseille/l-art-du-volume-187j","https://www.bottin.fr/fiche-locale/bgdhfdfbbiccjhihbjaf--l-art-du-volume--marseille-09.htm","https://www.planity.com/lart-du-volume-13009-marseille"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Gaget Coiffure","category":"coiffeur","city":"Marseille","country":"France","phone":"04 91 43 38 03","email":"gaget.jeremy@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"74 Rue Montaigne 13012. Email+Facebook on icoiffeur; L'Oréal Pro directory listing (not own site). SIRET 49123421700017.","score":87,"sourceUrls":["https://icoiffeur.fr/13/marseille/gaget-coiffure-1786","https://salon-fr.lorealprofessionnel.com/18991-gaget-coiffure","https://www.meilleurcoiffeur.com/coiffeur/gaget-coiffure-marseille-13012.html"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Lorenzo Style","category":"barber","city":"Marseille","country":"France","phone":"04 91 42 19 10","email":"lorenzostylmarseille@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"1 Bis Rue Saint-Savournin 13005. Email+Facebook on icoiffeur; Planity booking only; no standalone site. SIRET 50083124300018.","score":86,"sourceUrls":["https://icoiffeur.fr/13/marseille/lorenzo-style-178x","https://www.planity.com/lorenzo-styl-13005-marseille","https://www.misterwhat.fr/company/2413662-lorenzo-styl-marseille"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Claudie Saffon","category":"coiffeur","city":"Toulouse","country":"France","phone":"05 61 22 15 82","email":"claudiesaffon@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"16 Rue Paul Vidal 31000. Email+Facebook on icoiffeur; no standalone www domain. SIRET 53748072500010.","score":90,"sourceUrls":["https://icoiffeur.fr/31/toulouse/claudie-saffon-9h0","https://www.118000.fr/e_C0065675347","https://coiffeursdetalent.fr/place/claudie-saffon-coiffure/"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Lilie Prune","category":"coiffeur","city":"Toulouse","country":"France","phone":"05 61 55 20 00","email":"charleneflorentin@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"26 Av. Antoine de Saint-Exupéry 31400. Email+Facebook on icoiffeur; Planity only; no standalone site. SIRET 44500047400020.","score":87,"sourceUrls":["https://icoiffeur.fr/31/toulouse/lilie-prune-9u0","https://www.planity.com/lilie-prune-31400-toulouse"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Un Homme d'Influence","category":"barber","city":"Toulouse","country":"France","phone":"","email":"unhommedinfluence@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"4 Rue Caminade 31000. Email on icoiffeur; only Solocal mini-page + Planity (directory/booking, not standalone). SIRET 84115875100013.","score":82,"sourceUrls":["https://icoiffeur.fr/31/toulouse/un-homme-d-influence-26z5"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Côté Coupe","category":"coiffeur","city":"Nantes","country":"France","phone":"02 40 76 51 49","email":"maganantes@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"1 Rue Félix Faure 44000. Email on icoiffeur; only Pages Jaunes/Solocal mini-site (directory OK). SIRET 49061552300019.","score":84,"sourceUrls":["https://icoiffeur.fr/44/nantes/cote-coupe-fmw","https://www.misterwhat.fr/company/2293958-cote-coupe-nantes"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Babi Barber Shop","category":"barber","city":"Rennes","country":"France","phone":"02 99 31 05 20","email":"hichameamiour@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"43 Bd de la Liberté, 35000 Rennes; SIRET 98440258600015; directories/Planity only, no standalone site.","score":92,"sourceUrls":["https://www.tel.fr/pro/rennes-35/entreprise/65046956-babi-barber-shop-hichame-amiour","https://salon-de-coiffure.meilleur-coiffeur.fr/babi-barbershop-1080618.html"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Au Temps Qui Passe","category":"restaurant","city":"Bordeaux","country":"France","phone":"05 54 68 48 54","email":"kadim.sabri@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"SIREN 533748646, gérant Sabri Kadim; siège Cours de l'Yser / listing 26 Rue Bremontier; e-pro: site non communiqué.","score":90,"sourceUrls":["https://www.tel.fr/pro/bordeaux-33/entreprise/51047716-au-temps-qui-passe-sabrl-kadim","https://hotelrestaurant.e-pro.fr/gironde/au-temps-qui-passe_f4579519"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Le Sablier","category":"café","city":"Rennes","country":"France","phone":"02 21 67 06 36","email":"lesablier.rennes@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"70 rue Jean Guéhenno, 35000 Rennes; bar-restaurant; email published on Unidivers; no official domain found.","score":91,"sourceUrls":["https://unidivers.fr/le-sablier-rennes/"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Beauty Salon Georges","category":"salon","city":"Anvers","country":"Belgium","phone":"+32 485 37 93 86","email":"Beautysalongeorges@hotmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"Sint-Gummarusstraat 5, 2060 Antwerpen; BE0741801263; Facebook + company registries only.","score":88,"sourceUrls":["https://www.facebook.com/p/Beauty-salon-georges-100064760557149/","https://www.companyweb.be/nl/0741801263/beauty-salon-georges"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Café Rudina","category":"café","city":"Bruxelles","country":"Belgium","phone":"","email":"annatouse24@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"Lakensestraat 144, 1000 Brussel; BE0736421822; public company directory email; no website.","score":84,"sourceUrls":["https://www.webhero.be/ondernemingsgids/bedrijfsgegevens/cafe-rudina-736421822","https://belscope.be/company/0736421822"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"L'Avenir Café","category":"café","city":"Bruxelles","country":"Belgium","phone":"+32 474 40 65 25","email":"lavenircafe@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"Beursstraat / Rue de la Bourse 42-44, 1000 Bruxelles; BE0727873251; directory email; trendstop website field empty.","score":87,"sourceUrls":["https://www.webhero.be/ondernemingsgids/bedrijfsgegevens/lavenir-cafe-727873251","https://belscope.be/company/0727873251"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Café Gourmand","category":"café","city":"Bruxelles","country":"Belgium","phone":"","email":"cafegourmand50@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"Tervurenlaan 32-38, 1040 Etterbeek (Bruxelles); BE0793496721; public directory email; no standalone site found.","score":80,"sourceUrls":["https://www.webhero.be/ondernemingsgids/bedrijfsgegevens/cafe-gourmand-793496721","https://busibee.be/nl/0793496721-cafe-gourmand"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Per C Apero & Drinks","category":"café","city":"Anvers","country":"Belgium","phone":"+32 475 60 48 75","email":"deschelde.mn@gmail.com","websiteStatus":"NONE","websiteUrl":"","notes":"Napelsstraat 126, 2000 Antwerpen; lunch/aperobar; directory email; no website and no social accounts listed.","score":86,"sourceUrls":["https://www.webhero.be/ondernemingsgids/antwerpen/per-c-apero-amp-drinks/openingsuren","https://www.infoisinfo.be/kaart/per-c-apero-drinks/antwerpen/771294"],"emailedAt":"2026-09-08T08:32:49.161Z","replied":false},{"name":"Am2C Cosmetic Laboratory","category":"coiffeur","city":"Nice","country":"France","phone":"","email":"soc.am2c@wanadoo.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/06/nice/am2c-cosmetic-laboratory-mb0","https://facebook.com/NiceCut.mp"]},{"name":"K D Coiffure","category":"coiffeur","city":"Rennes","country":"France","phone":"","email":"noemie.thissier-kd-coiffure@wanadoo.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/35/rennes/k-d-coiffure-c2f","https://facebook.com/MECH-COIFFURE-111696243940813/"]},{"name":"Mouss'Hair B","category":"coiffeur","city":"Nantes","country":"France","phone":"","email":"alan1114-adelmoussayir@yahoo.com","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/44/nantes/mouss-hair-b-fy3"]},{"name":"Frédéric Coiffeur Créateur","category":"coiffeur","city":"Clermont-Ferrand","country":"France","phone":"","email":"luc.genete@orange.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site='www.planity.com/frederic-coiffeur-createur-63000-clermont-ferrand'); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/63/clermont-ferrand/frederic-coiffeur-createur-owu","https://www.planity.com/frederic-coiffeur-createur-63000-clermont-ferrand","https://facebook.com/370198519512"]},{"name":"Lola C","category":"coiffeur","city":"Villeurbanne","country":"France","phone":"","email":"lola_coiffure@yahoo.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/69/villeurbanne/lola-c-ria"]},{"name":"Différence Maison de Beauté","category":"coiffeur","city":"Poitiers","country":"France","phone":"","email":"sarldifference@wanadoo.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site='www.planity.com/difference-86000-poitiers'); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/86/poitiers/difference-maison-de-beaute-10ui","https://www.planity.com/difference-86000-poitiers","https://facebook.com/Salon-Diff%C3%A9rence-639145856140105/"]},{"name":"Opera Coiffure","category":"coiffeur","city":"Strasbourg","country":"France","phone":"","email":"jeangrasset@hotmail.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/67/strasbourg/opera-coiffure-q40","https://facebook.com/OperaCoifure"]},{"name":"Au Salon Natur'l","category":"coiffeur","city":"Metz","country":"France","phone":"","email":"ausalonnaturl@laposte.net","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/57/metz/au-salon-natur-l-2hh1","https://facebook.com/ausalon.naturl"]},{"name":"De Vous A Moi","category":"coiffeur","city":"Le Mans","country":"France","phone":"","email":"helenebruneau@hotmail.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/72/le-mans/de-vous-a-moi-tdr"]},{"name":"Affirmatif","category":"coiffeur","city":"Avignon","country":"France","phone":"","email":"affirmatif.0007@free.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/84/avignon/affirmatif-1su8"]},{"name":"Arnaud Coiffure","category":"coiffeur","city":"Limoges","country":"France","phone":"","email":"coiffurepararnaud@yahoo.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/87/limoges/arnaud-coiffure-1ta4"]},{"name":"A 2 Pièces Cuisine Coiffures et Traditions","category":"coiffeur","city":"Saint-Étienne","country":"France","phone":"","email":"verotterichier@hotmail.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/42/saint-etienne/a-2-pieces-cuisine-coiffures-et-traditions-fd8","https://facebook.com/2-Pi%C3%A8ces-Cuisine-1028204753973987/"]},{"name":"Hair Azur","category":"coiffeur","city":"Amiens","country":"France","phone":"","email":"houcine.rafik@yahoo.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/80/amiens/hair-azur-y49"]},{"name":"Coiffure Philippe","category":"coiffeur","city":"Tours","country":"France","phone":"","email":"gwenphil@hotmail.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site='coiffurephilippe.site-solocal.com'); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/37/tours/coiffure-philippe-cu0"]},{"name":"I. Cut","category":"coiffeur","city":"Nancy","country":"France","phone":"","email":"elodie.jean3@free.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/54/nancy/i-cut-j65"]},{"name":"Au Fil de l'Hair","category":"coiffeur","city":"Toulouse","country":"France","phone":"","email":"aufildelhair@free.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/31/toulouse/au-fil-de-l-hair-9ci","https://facebook.com/pages/Au-Fil-de-lHair/162345890445823"]},{"name":"Louca","category":"coiffeur","city":"Bordeaux","country":"France","phone":"","email":"salonlouca@yahoo.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/33/bordeaux/louca-2cgs","https://facebook.com/SalonLOUCA"]},{"name":"Salon Innov'Art","category":"coiffeur","city":"Bordeaux","country":"France","phone":"","email":"audreybas@hotmail.fr","websiteStatus":"NONE","websiteUrl":"","notes":"Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.","emailedAt":"2026-09-08T10:35:41.000Z","replied":false,"score":85,"sourceUrls":["https://icoiffeur.fr/33/bordeaux/salon-innov-art-b2f"]}]
+[
+  {
+    "name": "Garage Blanc",
+    "category": "garage/carrosserie",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 28 48 16",
+    "email": "garage-blanc0@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Pages Jaunes + LesGarages; no standalone site",
+    "emailedAt": "2026-09-08T08:20:07.000Z",
+    "replied": false,
+    "score": 82,
+    "sourceUrls": [
+      "https://www.pagesjaunes.fr/pros/04369612",
+      "https://lesgarages.fr/69/lyon/garage-blanc-1t7q"
+    ]
+  },
+  {
+    "name": "Société Nouvelle du Garage de France",
+    "category": "garage automobile",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 54 18 78",
+    "email": "sngf2@wanadoo.fr",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.peugeotproximity.fr/garage/societe-nouvelle-du-garage-de-france",
+    "notes": "Peugeot portal",
+    "emailedAt": null,
+    "replied": false,
+    "score": 84
+  },
+  {
+    "name": "macBAR",
+    "category": "café/bar/restaurant",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "",
+    "email": "robin@macbar.fr",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.mac-lyon.com/fr/cafe-restaurant-et-boutique",
+    "notes": "macLYON",
+    "emailedAt": null,
+    "replied": false,
+    "score": 72
+  },
+  {
+    "name": "La Kolok",
+    "category": "beer bar/restaurant",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 26 55 96 25",
+    "email": "",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://linktr.ee/la_kolok",
+    "notes": "Linktree",
+    "emailedAt": null,
+    "replied": false,
+    "score": 62
+  },
+  {
+    "name": "Le Madras Café",
+    "category": "restaurant",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "07 52 22 35 60",
+    "email": "",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "No site",
+    "emailedAt": null,
+    "replied": false,
+    "score": 62
+  },
+  {
+    "name": "Garage Saint Just",
+    "category": "garage automobile",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 25 35 80",
+    "email": "",
+    "websiteStatus": "POOR",
+    "websiteUrl": "",
+    "notes": "Peugeot portal",
+    "emailedAt": null,
+    "replied": false,
+    "score": 58
+  },
+  {
+    "name": "Garage du Mail",
+    "category": "garage automobile",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 29 53 14",
+    "email": "",
+    "websiteStatus": "POOR",
+    "websiteUrl": "",
+    "notes": "Eurorepar",
+    "emailedAt": null,
+    "replied": false,
+    "score": 57
+  },
+  {
+    "name": "Garage de l'Europe",
+    "category": "garage automobile",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 83 68 73",
+    "email": "",
+    "websiteStatus": "POOR",
+    "websiteUrl": "",
+    "notes": "Eurorepar",
+    "emailedAt": null,
+    "replied": false,
+    "score": 55
+  },
+  {
+    "name": "Le Sud-Ouest",
+    "category": "restaurant",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 72 72 04",
+    "email": "",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://restaurant-le-sud-ouest.fr/",
+    "notes": "Sparse site",
+    "emailedAt": null,
+    "replied": false,
+    "score": 55
+  },
+  {
+    "name": "Coiffure des Arts",
+    "category": "salon",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 42 96 68",
+    "email": "coiffuredesarts@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.coiffuredesarts.fr/contact",
+    "notes": "44 Rue Franklin, 69002 Lyon; basic contact/service page.",
+    "score": 94,
+    "sourceUrls": [
+      "https://www.coiffuredesarts.fr/contact"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Wilfrid Karloff",
+    "category": "salon",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 72 00 31 96",
+    "email": "wilfridkarloff@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://wilfrid-karloff.com/salon-de-coiffure/lyon",
+    "notes": "65 Avenue des Frères Lumière, 69008 Lyon; compact local salon site.",
+    "score": 92,
+    "sourceUrls": [
+      "https://wilfrid-karloff.com/salon-de-coiffure/lyon"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Cabana Café",
+    "category": "cafe",
+    "city": "Lyon",
+    "country": "France",
+    "phone": null,
+    "email": "contact.cabanacafe@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.cabana-cafe.com/mentions-legales/",
+    "notes": "Legal page identifies 30 rue de l’Annonciade, 69001 Lyon; no phone shown.",
+    "score": 90,
+    "sourceUrls": [
+      "https://www.cabana-cafe.com/mentions-legales/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Bambino Ristorante Lyon",
+    "category": "restaurant",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "09 81 71 75 43",
+    "email": "bambinorestaurantlyon@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.bambino-lyon.com/blank-1-1",
+    "notes": "1 Place du Petit Collège, 69005 Lyon; small Wix-style site.",
+    "score": 90,
+    "sourceUrls": [
+      "https://www.bambino-lyon.com/blank-1-1"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Ravioli Gourmet",
+    "category": "restaurant",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 54 43 23",
+    "email": "ravioligourmetlyon@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://ravioli-gourmet-lyon.fr/fr/",
+    "notes": "234 Rue Paul Bert, 69003 Lyon; limited restaurant microsite.",
+    "score": 89,
+    "sourceUrls": [
+      "https://ravioli-gourmet-lyon.fr/fr/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "KINOKO",
+    "category": "restaurant",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 69 39 50",
+    "email": "kinoko.restaurant.lyon@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.kinoko-lyon.com/contact",
+    "notes": "34 Rue Bancel, 69007 Lyon; simple contact page.",
+    "score": 89,
+    "sourceUrls": [
+      "https://www.kinoko-lyon.com/contact"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Restaurant 77",
+    "category": "restaurant",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 72 36 31 41",
+    "email": "le77partdieu@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.restaurant77.com/",
+    "notes": "77 Bd Marius Vivier Merle, 69003 Lyon; local brochure-style site.",
+    "score": 87,
+    "sourceUrls": [
+      "https://www.restaurant77.com/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Boulangerie Albon",
+    "category": "bakery",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 72 98 34 28",
+    "email": "info@boulangeriealbon.lat",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://boulangeriealbon.lat/",
+    "notes": "11 Rue Chavanne, 69001 Lyon; small artisan site. | bounce",
+    "score": 88,
+    "sourceUrls": [
+      "https://boulangeriealbon.lat/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false,
+    "bounced": true
+  },
+  {
+    "name": "MÔM Boulangerie",
+    "category": "bakery",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "09 87 05 64 57",
+    "email": "tentationorientale@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://momboulangerie.com/",
+    "notes": "31 rue Maryse Bastié, Lyon 8; modest local site.",
+    "score": 88,
+    "sourceUrls": [
+      "https://momboulangerie.com/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Boulangerie POP",
+    "category": "bakery",
+    "city": "Lyon",
+    "country": "France",
+    "phone": null,
+    "email": "contact@boulangeriepop.fr",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://boulangeriepop.fr/",
+    "notes": "60 Rue de Cuire, 69004 Lyon; phone not shown in source.",
+    "score": 86,
+    "sourceUrls": [
+      "https://boulangeriepop.fr/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "L’Echappée Végétale",
+    "category": "florist",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "06 01 43 61 96",
+    "email": "bonjour@lechappee-vegetale.fr",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://lechappee-vegetale.fr/",
+    "notes": "Atelier at 51 Rue Bossuet, 69006 Lyon; small workshop site.",
+    "score": 86,
+    "sourceUrls": [
+      "https://lechappee-vegetale.fr/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Yoni Coiffure",
+    "category": "salon",
+    "city": "Paris",
+    "country": "France",
+    "phone": "01 47 05 49 05",
+    "email": "yonicoiffure@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://yonicoiffure-lemomentpresent.fr/reservation-salon-coiffure-paris-7/",
+    "notes": "Public booking page for Paris 7 salon.",
+    "score": 91,
+    "sourceUrls": [
+      "https://yonicoiffure-lemomentpresent.fr/reservation-salon-coiffure-paris-7/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Joël Dessault",
+    "category": "barber",
+    "city": "Paris",
+    "country": "France",
+    "phone": null,
+    "email": "joel.dessault@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.coiffeur-homme-paris.fr/contact",
+    "notes": "74 Boulevard Saint-Germain, 75005 Paris; phone not shown.",
+    "score": 88,
+    "sourceUrls": [
+      "https://www.coiffeur-homme-paris.fr/contact"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Valessio Coiffeur",
+    "category": "salon",
+    "city": "Paris",
+    "country": "France",
+    "phone": null,
+    "email": "novalessio.paris@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://valessio-coiffeur-paris.fr/en/privacy-policy/",
+    "notes": "19 Rue de Châteaudun, 75009 Paris; phone not shown. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://valessio-coiffeur-paris.fr/en/privacy-policy/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false,
+    "bounced": true
+  },
+  {
+    "name": "La Gorgée",
+    "category": "restaurant",
+    "city": "Paris",
+    "country": "France",
+    "phone": "01 43 22 41 14",
+    "email": "lagorgee.restaurant@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.lagorgee.com/",
+    "notes": "22 rue de Fleurus, 75006 Paris; basic bistrot site.",
+    "score": 89,
+    "sourceUrls": [
+      "https://www.lagorgee.com/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Le Bon Saint Pourçain",
+    "category": "restaurant",
+    "city": "Paris",
+    "country": "France",
+    "phone": "01 42 01 78 24",
+    "email": "restaurantlebonsaintpourcain@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.bonsaintpourcain.com/",
+    "notes": "10bis rue Servandoni, 75006 Paris; small restaurant site.",
+    "score": 89,
+    "sourceUrls": [
+      "https://www.bonsaintpourcain.com/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Bistrot Le Rennequin",
+    "category": "restaurant",
+    "city": "Paris",
+    "country": "France",
+    "phone": "09 81 59 46 85",
+    "email": "lerennequin@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://lerennequin.com/",
+    "notes": "67 rue Rennequin, 75017 Paris; basic local bistrot presence.",
+    "score": 88,
+    "sourceUrls": [
+      "https://lerennequin.com/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Café des Deux Moulins",
+    "category": "cafe",
+    "city": "Paris",
+    "country": "France",
+    "phone": null,
+    "email": "cafedesdeuxmoulinsparis@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.cafedesdeuxmoulins.com/",
+    "notes": "15 Rue Lepic, 75018 Paris; phone not shown.",
+    "score": 84,
+    "sourceUrls": [
+      "https://www.cafedesdeuxmoulins.com/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Brasserie Naï",
+    "category": "restaurant",
+    "city": "Paris",
+    "country": "France",
+    "phone": "01 43 80 52 16",
+    "email": "nai.brasserie@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://nai-brasserie.fr/",
+    "notes": "8 avenue de la Grande Armée, 75017 Paris; family-brasserie site.",
+    "score": 87,
+    "sourceUrls": [
+      "https://nai-brasserie.fr/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Coiffure Véronique",
+    "category": "salon",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "04 91 61 21 36",
+    "email": "veronique.ardouin@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://coiffure-marseille-12.fr/",
+    "notes": "1 Bd Debord, 13012 Marseille; compact local salon site.",
+    "score": 91,
+    "sourceUrls": [
+      "https://coiffure-marseille-12.fr/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "David Louder Madrague by Céline",
+    "category": "salon",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "04 91 73 03 66",
+    "email": "lesalondelamadrague@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.davidlouder-madrague.fr/",
+    "notes": "54 avenue de la Madrague de Montredon, 13008 Marseille.",
+    "score": 90,
+    "sourceUrls": [
+      "https://www.davidlouder-madrague.fr/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "COIFFGIRLS",
+    "category": "salon",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "07 60 25 71 92",
+    "email": "coiffgirls@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": null,
+    "notes": "Public LinkedIn profile identifies Marseille salon and reservation contact; no standalone site found.",
+    "score": 94,
+    "sourceUrls": [
+      "https://www.linkedin.com/in/coiffgirlsmarseille"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Cartier Coiffure",
+    "category": "salon",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "04 91 33 14 18",
+    "email": "cartiercoiffure@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.cartiercoiffure.fr/",
+    "notes": "20 Rue Armény, 13006 Marseille; compact local site.",
+    "score": 88,
+    "sourceUrls": [
+      "https://www.cartiercoiffure.fr/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Poumpo",
+    "category": "cafe",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "04 91 33 11 52",
+    "email": "contactpoumpo@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.poumpo.fr/mentions-legales",
+    "notes": "Café-sandwicherie at 5 rue Glandevès, 13001 Marseille; basic legal/contact page.",
+    "score": 90,
+    "sourceUrls": [
+      "https://www.poumpo.fr/mentions-legales"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "La Gerbe d’Or",
+    "category": "restaurant",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "04 91 43 03 19",
+    "email": "agu.MIKA.MA@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://la-gerbe-dor-restaurant-marseille.metro.bar/?lang=en",
+    "notes": "6 avenue César Boy, 13011 Marseille; directory-hosted microsite.",
+    "score": 86,
+    "sourceUrls": [
+      "https://la-gerbe-dor-restaurant-marseille.metro.bar/?lang=en"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "La Poule Noire",
+    "category": "restaurant",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "04 91 55 68 86",
+    "email": "lapoulenoirerestaurant@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "http://restaurant-lapoulenoire.com",
+    "notes": "Directory entry: 61 rue Sainte, 13001 Marseille; verify current details.",
+    "score": 83,
+    "sourceUrls": [
+      "https://annuaire-france.net/Annuaire/Details_infos.php?activite=Restaurants&e=Restaurant+La+Poule+Noire+SARL+DS+FAMILY&id=117446&p=restaurant-lapoulenoire&ville=Marseille"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Kakapo",
+    "category": "cafe",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "04 84 26 74 78",
+    "email": "kakapo.marseille@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://kakapostore.fr/contact/",
+    "notes": "Salon de thé at 31 Boulevard de la Libération, 13001 Marseille.",
+    "score": 87,
+    "sourceUrls": [
+      "https://kakapostore.fr/contact/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Les Sœurs M",
+    "category": "salon",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "05 61 21 21 56",
+    "email": "lessoeursmtoulouse@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.lessoeursm-salondecoiffure.fr/",
+    "notes": "8 Rue John-Fitzgerald Kennedy, 31000 Toulouse; small salon site.",
+    "score": 91,
+    "sourceUrls": [
+      "https://www.lessoeursm-salondecoiffure.fr/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Campagne",
+    "category": "restaurant",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "05 62 17 05 92",
+    "email": "campagnetoulouse@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://campagnetoulouse.fr/",
+    "notes": "Cave à manger in central Toulouse; Gmail listed for group reservations.",
+    "score": 87,
+    "sourceUrls": [
+      "https://campagnetoulouse.fr/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Le Bol Bu",
+    "category": "cafe",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "05 61 21 11 31",
+    "email": "lebolbu94@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": null,
+    "notes": "Tourism directory lists salon de thé at 8 Rue du May, 31000 Toulouse and phone/email; no standalone site shown.",
+    "score": 92,
+    "sourceUrls": [
+      "https://www.hautegaronnetourisme.com/restaurants/le-bol-bu/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Un Petit Gateau",
+    "category": "bakery",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "05 61 52 39 54",
+    "email": "unpetitgateau.toulouse@gmail.com",
+    "websiteStatus": "POOR",
+    "websiteUrl": "https://www.unpetitgateau.com/",
+    "notes": "3 rue Temponières, 31000 Toulouse; focused small-business site.",
+    "score": 88,
+    "sourceUrls": [
+      "https://www.unpetitgateau.com/"
+    ],
+    "emailedAt": "2026-09-07T22:29:05Z",
+    "replied": false
+  },
+  {
+    "name": "Garage Taxi Forte",
+    "category": "garage automobile",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 72 88 97",
+    "email": "sarlforte@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Solocal/Pages Jaunes microsite only; directories confirm no dedicated site",
+    "emailedAt": "2026-09-08T08:20:07.000Z",
+    "replied": false,
+    "score": 80,
+    "sourceUrls": [
+      "https://sarlforte.site-solocal.com/",
+      "https://infonet.fr/entreprises/51474838300015-garage-taxi-forte/"
+    ]
+  },
+  {
+    "name": "Cinq et sens",
+    "category": "coiffeur",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 53 29 36",
+    "email": "amel.benmane@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "e-pro: Site non communiqué; Solocal microsite only",
+    "emailedAt": "2026-09-08T08:20:07.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://cinqetsens.site-solocal.com/",
+      "https://coiffure.e-pro.fr/rhone/benmane-amal_f4947119"
+    ]
+  },
+  {
+    "name": "Karelys",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "02 40 73 55 31",
+    "email": "karelys@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "e-pro Site non communiqué; Solocal directory email",
+    "emailedAt": "2026-09-08T08:20:07.000Z",
+    "replied": false,
+    "score": 84,
+    "sourceUrls": [
+      "https://karelys.site-solocal.com/",
+      "https://coiffure.e-pro.fr/loire-atlantique/snc-karelys_f2689597"
+    ]
+  },
+  {
+    "name": "Séverine Coiffure",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "02 40 59 17 04",
+    "email": "severine.phanuel@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Solocal microsite lists public email; no standalone salon site found",
+    "emailedAt": "2026-09-08T08:20:07.000Z",
+    "replied": false,
+    "score": 78,
+    "sourceUrls": [
+      "https://angelisscoiffure.site-solocal.com/"
+    ]
+  },
+  {
+    "name": "Garage du Coin du 44",
+    "category": "garage automobile",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "06 11 61 67 36",
+    "email": "garageducoindu44@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "LesGarages email, Pappers site internet non disponible",
+    "emailedAt": "2026-09-08T08:20:07.000Z",
+    "replied": false,
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/44/nantes/garage-du-coin-du-44-1lff",
+      "https://www.pappers.fr/entreprise/garage-du-coin-du-44-820628238"
+    ]
+  },
+  {
+    "name": "Garage des Coteaux",
+    "category": "garage automobile",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "05 61 47 31 05",
+    "email": "garagedescoteaux31@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "LesGarages email; no independent website in directories",
+    "emailedAt": "2026-09-08T08:20:07.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://lesgarages.fr/31/toulouse/garage-des-coteaux-2mta",
+      "https://www.pagesjaunes.fr/pros/57081546"
+    ]
+  },
+  {
+    "name": "Planète Auto",
+    "category": "garage automobile",
+    "city": "Saint-Jean-de-Védas",
+    "country": "France",
+    "phone": "",
+    "email": "planeteauto34@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "LesGarages lists email with no Site web field; no dedicated company site found | Reply interest; demo link sent https://hajmizakaria7-cmd.github.io/planete-auto-demo/",
+    "emailedAt": "2026-09-08T08:20:07.000Z",
+    "replied": true,
+    "score": 80,
+    "sourceUrls": [
+      "https://lesgarages.fr/34/saint-jean-de-vedas/planete-autos-1kul"
+    ],
+    "repliedAt": "2026-09-08T08:30:43.000Z"
+  },
+  {
+    "name": "Alain Fleurs",
+    "category": "fleuriste",
+    "city": "Castillon-la-Bataille",
+    "country": "France",
+    "phone": "05 57 40 15 25",
+    "email": "alainfleurs@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Solocal microsite email; marketplace listings only, no own site",
+    "emailedAt": "2026-09-08T08:20:07.000Z",
+    "replied": false,
+    "score": 79,
+    "sourceUrls": [
+      "https://alainfleurs.site-solocal.com/"
+    ]
+  },
+  {
+    "name": "Colombe Coiffure",
+    "category": "coiffeur",
+    "city": "Bruxelles",
+    "country": "Belgium",
+    "phone": "+32 2 327 18 52",
+    "email": "colombecoiffure@yahoo.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Belgian company filing explicitly: no website; public email in statutes; Pagesdor listing | bounce",
+    "emailedAt": "2026-09-08T08:20:07.000Z",
+    "replied": false,
+    "score": 90,
+    "sourceUrls": [
+      "https://busibee.be/fr/0730764841-colombe-coiffure/publications/1cA8NH2koiH6LEQYc6BpbU/19327058.pdf",
+      "https://www.pagesdor.be/entreprises/Saint-Gilles/instituts+de+beaut%C3%A9/"
+    ],
+    "bounced": true
+  },
+  {
+    "name": "Elyess Coiffure",
+    "category": "coiffeur",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 37 28 98 87",
+    "email": "sebastienforge3@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "64 Av. Jean Jaurès 69007. Email public on icoiffeur; Facebook only; Planity booking page (not standalone site). SIRET 45121283100015.",
+    "score": 88,
+    "sourceUrls": [
+      "https://icoiffeur.fr/69/lyon/elyess-coiffure-rp1",
+      "https://www.planity.com/elyess-coiffure-69007-lyon"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "L'Atelier",
+    "category": "coiffeur",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 72 98 83 28",
+    "email": "latelierlyon1@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "15 Rue Lanterne 69001. Email on icoiffeur; FB/IG @latelierlyon1; Planity only. No standalone domain found. SIRET 50350172800011.",
+    "score": 90,
+    "sourceUrls": [
+      "https://icoiffeur.fr/69/lyon/l-atelier-rv3",
+      "https://www.planity.com/latelier-69001-lyon",
+      "https://unilocal.fr/france/lyon/latelier-74221"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Salon B'Yohann",
+    "category": "coiffeur",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 72 34 03 95",
+    "email": "salon.byohann@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "73 Cours Dr Long 69003. Email on icoiffeur; only Planity/Fresha booking (not standalone site). SIRET 91746791200015.",
+    "score": 84,
+    "sourceUrls": [
+      "https://icoiffeur.fr/69/lyon/salon-b-yohann-2p24",
+      "https://www.planity.com/salon-byohann-69003-lyon/reservation",
+      "https://www.fresha.com/fr/lvp/salon-byohann-cours-docteur-long-lyon-P28MEw"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Salon 49",
+    "category": "coiffeur",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 00 93 96",
+    "email": "eurl.andrea@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "49 Av. des Frères Lumière 69008. Email+Facebook on icoiffeur; no standalone site. SIRET 39305216200012.",
+    "score": 87,
+    "sourceUrls": [
+      "https://icoiffeur.fr/69/lyon/salon-49-rso",
+      "https://www.planity.com/salon-49-69008-lyon",
+      "https://www.horaire-et-annuaire.fr/coiffeur/rhone/lyon/244465-salon-49"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Coiffure Christophe",
+    "category": "coiffeur",
+    "city": "Lyon",
+    "country": "France",
+    "phone": "04 78 24 86 82",
+    "email": "avakian.christophe@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "3 Place Jules Ferry 69006. Email on icoiffeur; Planity listing only; no standalone domain. SIRET 38333125300013.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/69/lyon/coiffure-christophe-1mrt",
+      "https://www.planity.com/coiffure-christophe-69006-lyon"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Emma Delorme",
+    "category": "coiffeur",
+    "city": "Paris",
+    "country": "France",
+    "phone": "",
+    "email": "edelorme.emma@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "9 Rue Gay-Lussac 75005. Email public on icoiffeur; no website field; directories confirm no official site. Enseigne Emma Delorme / DS Lussac SIRET 43294066600014.",
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/75/paris/emma-delorme-1ov2",
+      "https://fr.mappy.com/poi/61302d468b565f317c3649fc",
+      "https://www.fnc.fr/salons-de-coiffure/75105-paris-05/cijfegfebaciifbjaca.htm"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Thérésa Beauty",
+    "category": "coiffeur",
+    "city": "Paris",
+    "country": "France",
+    "phone": "01 42 52 02 55",
+    "email": "theresa.beauty2@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "3 Rue Poulet 75018. Email+Facebook on icoiffeur; tel.fr/Fresha confirm email+phone; no standalone site. SIRET 43398725200015.",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/75/paris/theresa-beauty-vb1",
+      "https://www.tel.fr/pro/paris-75/18eme-arrondissement/entreprise/49593188-theresa-beauty-theresa-kyeiwaa",
+      "https://www.fresha.com/fr/lvp/theresa-beauty-rue-poulet-paris-6QgGBP"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "L'Art du Volume",
+    "category": "coiffeur",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "04 91 71 74 57",
+    "email": "ghazaryanmarine181@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "4 Bd Gaston Ramon 13009. Email+Facebook on icoiffeur; directories/Planity only; no standalone domain. SIRET 54003526800015.",
+    "score": 88,
+    "sourceUrls": [
+      "https://icoiffeur.fr/13/marseille/l-art-du-volume-187j",
+      "https://www.bottin.fr/fiche-locale/bgdhfdfbbiccjhihbjaf--l-art-du-volume--marseille-09.htm",
+      "https://www.planity.com/lart-du-volume-13009-marseille"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Gaget Coiffure",
+    "category": "coiffeur",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "04 91 43 38 03",
+    "email": "gaget.jeremy@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "74 Rue Montaigne 13012. Email+Facebook on icoiffeur; L'Oréal Pro directory listing (not own site). SIRET 49123421700017.",
+    "score": 87,
+    "sourceUrls": [
+      "https://icoiffeur.fr/13/marseille/gaget-coiffure-1786",
+      "https://salon-fr.lorealprofessionnel.com/18991-gaget-coiffure",
+      "https://www.meilleurcoiffeur.com/coiffeur/gaget-coiffure-marseille-13012.html"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Lorenzo Style",
+    "category": "barber",
+    "city": "Marseille",
+    "country": "France",
+    "phone": "04 91 42 19 10",
+    "email": "lorenzostylmarseille@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "1 Bis Rue Saint-Savournin 13005. Email+Facebook on icoiffeur; Planity booking only; no standalone site. SIRET 50083124300018.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/13/marseille/lorenzo-style-178x",
+      "https://www.planity.com/lorenzo-styl-13005-marseille",
+      "https://www.misterwhat.fr/company/2413662-lorenzo-styl-marseille"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Claudie Saffon",
+    "category": "coiffeur",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "05 61 22 15 82",
+    "email": "claudiesaffon@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "16 Rue Paul Vidal 31000. Email+Facebook on icoiffeur; no standalone www domain. SIRET 53748072500010.",
+    "score": 90,
+    "sourceUrls": [
+      "https://icoiffeur.fr/31/toulouse/claudie-saffon-9h0",
+      "https://www.118000.fr/e_C0065675347",
+      "https://coiffeursdetalent.fr/place/claudie-saffon-coiffure/"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Lilie Prune",
+    "category": "coiffeur",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "05 61 55 20 00",
+    "email": "charleneflorentin@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "26 Av. Antoine de Saint-Exupéry 31400. Email+Facebook on icoiffeur; Planity only; no standalone site. SIRET 44500047400020.",
+    "score": 87,
+    "sourceUrls": [
+      "https://icoiffeur.fr/31/toulouse/lilie-prune-9u0",
+      "https://www.planity.com/lilie-prune-31400-toulouse"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Un Homme d'Influence",
+    "category": "barber",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "",
+    "email": "unhommedinfluence@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "4 Rue Caminade 31000. Email on icoiffeur; only Solocal mini-page + Planity (directory/booking, not standalone). SIRET 84115875100013.",
+    "score": 82,
+    "sourceUrls": [
+      "https://icoiffeur.fr/31/toulouse/un-homme-d-influence-26z5"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Côté Coupe",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "02 40 76 51 49",
+    "email": "maganantes@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "1 Rue Félix Faure 44000. Email on icoiffeur; only Pages Jaunes/Solocal mini-site (directory OK). SIRET 49061552300019.",
+    "score": 84,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/cote-coupe-fmw",
+      "https://www.misterwhat.fr/company/2293958-cote-coupe-nantes"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Babi Barber Shop",
+    "category": "barber",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "02 99 31 05 20",
+    "email": "hichameamiour@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "43 Bd de la Liberté, 35000 Rennes; SIRET 98440258600015; directories/Planity only, no standalone site.",
+    "score": 92,
+    "sourceUrls": [
+      "https://www.tel.fr/pro/rennes-35/entreprise/65046956-babi-barber-shop-hichame-amiour",
+      "https://salon-de-coiffure.meilleur-coiffeur.fr/babi-barbershop-1080618.html"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Au Temps Qui Passe",
+    "category": "restaurant",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "05 54 68 48 54",
+    "email": "kadim.sabri@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "SIREN 533748646, gérant Sabri Kadim; siège Cours de l'Yser / listing 26 Rue Bremontier; e-pro: site non communiqué.",
+    "score": 90,
+    "sourceUrls": [
+      "https://www.tel.fr/pro/bordeaux-33/entreprise/51047716-au-temps-qui-passe-sabrl-kadim",
+      "https://hotelrestaurant.e-pro.fr/gironde/au-temps-qui-passe_f4579519"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Le Sablier",
+    "category": "café",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "02 21 67 06 36",
+    "email": "lesablier.rennes@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "70 rue Jean Guéhenno, 35000 Rennes; bar-restaurant; email published on Unidivers; no official domain found.",
+    "score": 91,
+    "sourceUrls": [
+      "https://unidivers.fr/le-sablier-rennes/"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Beauty Salon Georges",
+    "category": "salon",
+    "city": "Anvers",
+    "country": "Belgium",
+    "phone": "+32 485 37 93 86",
+    "email": "Beautysalongeorges@hotmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Sint-Gummarusstraat 5, 2060 Antwerpen; BE0741801263; Facebook + company registries only.",
+    "score": 88,
+    "sourceUrls": [
+      "https://www.facebook.com/p/Beauty-salon-georges-100064760557149/",
+      "https://www.companyweb.be/nl/0741801263/beauty-salon-georges"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Café Rudina",
+    "category": "café",
+    "city": "Bruxelles",
+    "country": "Belgium",
+    "phone": "",
+    "email": "annatouse24@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Lakensestraat 144, 1000 Brussel; BE0736421822; public company directory email; no website.",
+    "score": 84,
+    "sourceUrls": [
+      "https://www.webhero.be/ondernemingsgids/bedrijfsgegevens/cafe-rudina-736421822",
+      "https://belscope.be/company/0736421822"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "L'Avenir Café",
+    "category": "café",
+    "city": "Bruxelles",
+    "country": "Belgium",
+    "phone": "+32 474 40 65 25",
+    "email": "lavenircafe@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Beursstraat / Rue de la Bourse 42-44, 1000 Bruxelles; BE0727873251; directory email; trendstop website field empty.",
+    "score": 87,
+    "sourceUrls": [
+      "https://www.webhero.be/ondernemingsgids/bedrijfsgegevens/lavenir-cafe-727873251",
+      "https://belscope.be/company/0727873251"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Café Gourmand",
+    "category": "café",
+    "city": "Bruxelles",
+    "country": "Belgium",
+    "phone": "",
+    "email": "cafegourmand50@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Tervurenlaan 32-38, 1040 Etterbeek (Bruxelles); BE0793496721; public directory email; no standalone site found.",
+    "score": 80,
+    "sourceUrls": [
+      "https://www.webhero.be/ondernemingsgids/bedrijfsgegevens/cafe-gourmand-793496721",
+      "https://busibee.be/nl/0793496721-cafe-gourmand"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Per C Apero & Drinks",
+    "category": "café",
+    "city": "Anvers",
+    "country": "Belgium",
+    "phone": "+32 475 60 48 75",
+    "email": "deschelde.mn@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Napelsstraat 126, 2000 Antwerpen; lunch/aperobar; directory email; no website and no social accounts listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://www.webhero.be/ondernemingsgids/antwerpen/per-c-apero-amp-drinks/openingsuren",
+      "https://www.infoisinfo.be/kaart/per-c-apero-drinks/antwerpen/771294"
+    ],
+    "emailedAt": "2026-09-08T08:32:49.161Z",
+    "replied": false
+  },
+  {
+    "name": "Am2C Cosmetic Laboratory",
+    "category": "coiffeur",
+    "city": "Nice",
+    "country": "France",
+    "phone": "",
+    "email": "soc.am2c@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/06/nice/am2c-cosmetic-laboratory-mb0",
+      "https://facebook.com/NiceCut.mp"
+    ]
+  },
+  {
+    "name": "K D Coiffure",
+    "category": "coiffeur",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "",
+    "email": "noemie.thissier-kd-coiffure@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/rennes/k-d-coiffure-c2f",
+      "https://facebook.com/MECH-COIFFURE-111696243940813/"
+    ]
+  },
+  {
+    "name": "Mouss'Hair B",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "",
+    "email": "alan1114-adelmoussayir@yahoo.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/mouss-hair-b-fy3"
+    ]
+  },
+  {
+    "name": "Frédéric Coiffeur Créateur",
+    "category": "coiffeur",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "phone": "",
+    "email": "luc.genete@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site='www.planity.com/frederic-coiffeur-createur-63000-clermont-ferrand'); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/63/clermont-ferrand/frederic-coiffeur-createur-owu",
+      "https://www.planity.com/frederic-coiffeur-createur-63000-clermont-ferrand",
+      "https://facebook.com/370198519512"
+    ]
+  },
+  {
+    "name": "Lola C",
+    "category": "coiffeur",
+    "city": "Villeurbanne",
+    "country": "France",
+    "phone": "",
+    "email": "lola_coiffure@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/69/villeurbanne/lola-c-ria"
+    ]
+  },
+  {
+    "name": "Différence Maison de Beauté",
+    "category": "coiffeur",
+    "city": "Poitiers",
+    "country": "France",
+    "phone": "",
+    "email": "sarldifference@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site='www.planity.com/difference-86000-poitiers'); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/86/poitiers/difference-maison-de-beaute-10ui",
+      "https://www.planity.com/difference-86000-poitiers",
+      "https://facebook.com/Salon-Diff%C3%A9rence-639145856140105/"
+    ]
+  },
+  {
+    "name": "Opera Coiffure",
+    "category": "coiffeur",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "",
+    "email": "jeangrasset@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/67/strasbourg/opera-coiffure-q40",
+      "https://facebook.com/OperaCoifure"
+    ]
+  },
+  {
+    "name": "Au Salon Natur'l",
+    "category": "coiffeur",
+    "city": "Metz",
+    "country": "France",
+    "phone": "",
+    "email": "ausalonnaturl@laposte.net",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/57/metz/au-salon-natur-l-2hh1",
+      "https://facebook.com/ausalon.naturl"
+    ]
+  },
+  {
+    "name": "De Vous A Moi",
+    "category": "coiffeur",
+    "city": "Le Mans",
+    "country": "France",
+    "phone": "",
+    "email": "helenebruneau@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/72/le-mans/de-vous-a-moi-tdr"
+    ]
+  },
+  {
+    "name": "Affirmatif",
+    "category": "coiffeur",
+    "city": "Avignon",
+    "country": "France",
+    "phone": "",
+    "email": "affirmatif.0007@free.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/84/avignon/affirmatif-1su8"
+    ]
+  },
+  {
+    "name": "Arnaud Coiffure",
+    "category": "coiffeur",
+    "city": "Limoges",
+    "country": "France",
+    "phone": "",
+    "email": "coiffurepararnaud@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/87/limoges/arnaud-coiffure-1ta4"
+    ]
+  },
+  {
+    "name": "A 2 Pièces Cuisine Coiffures et Traditions",
+    "category": "coiffeur",
+    "city": "Saint-Étienne",
+    "country": "France",
+    "phone": "",
+    "email": "verotterichier@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/42/saint-etienne/a-2-pieces-cuisine-coiffures-et-traditions-fd8",
+      "https://facebook.com/2-Pi%C3%A8ces-Cuisine-1028204753973987/"
+    ]
+  },
+  {
+    "name": "Hair Azur",
+    "category": "coiffeur",
+    "city": "Amiens",
+    "country": "France",
+    "phone": "",
+    "email": "houcine.rafik@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/80/amiens/hair-azur-y49"
+    ]
+  },
+  {
+    "name": "Coiffure Philippe",
+    "category": "coiffeur",
+    "city": "Tours",
+    "country": "France",
+    "phone": "",
+    "email": "gwenphil@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site='coiffurephilippe.site-solocal.com'); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/37/tours/coiffure-philippe-cu0"
+    ]
+  },
+  {
+    "name": "I. Cut",
+    "category": "coiffeur",
+    "city": "Nancy",
+    "country": "France",
+    "phone": "",
+    "email": "elodie.jean3@free.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/54/nancy/i-cut-j65"
+    ]
+  },
+  {
+    "name": "Au Fil de l'Hair",
+    "category": "coiffeur",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "",
+    "email": "aufildelhair@free.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/31/toulouse/au-fil-de-l-hair-9ci",
+      "https://facebook.com/pages/Au-Fil-de-lHair/162345890445823"
+    ]
+  },
+  {
+    "name": "Louca",
+    "category": "coiffeur",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "",
+    "email": "salonlouca@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/33/bordeaux/louca-2cgs",
+      "https://facebook.com/SalonLOUCA"
+    ]
+  },
+  {
+    "name": "Salon Innov'Art",
+    "category": "coiffeur",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "",
+    "email": "audreybas@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "emailedAt": "2026-09-08T10:35:41.000Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/33/bordeaux/salon-innov-art-b2f"
+    ]
+  },
+  {
+    "name": "London's Cut",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "",
+    "email": "lmdc@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/london-s-cut-fvr",
+      "http://www.facebook.com/pages/category/Hair-Salon/LONDONS-CUT-291716417631/"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Atelier Est'Hair",
+    "category": "coiffeur",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "",
+    "email": "latelierdesthair@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/33/bordeaux/atelier-est-hair-aag",
+      "http://www.facebook.com/pages/Atelier-EstHair/189676254874768"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Le Reflet du Miroir",
+    "category": "coiffeur",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "",
+    "email": "rosia17@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/33/bordeaux/le-reflet-du-miroir-ahz",
+      "http://www.facebook.com/lerefletdumiroir"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Le Coiffeur de Croix Daurade",
+    "category": "coiffeur",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "",
+    "email": "thabetnettoyage.31@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/31/toulouse/le-coiffeur-de-croix-daurade-99f"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "ARTS.SD —Coiffure Jeanne d'Arc",
+    "category": "coiffeur",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "",
+    "email": "wangqiang.zhuang@hotmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/31/toulouse/arts-sd-coiffure-jeanne-d-arc-21ts",
+      "https://www.facebook.com/Arts-SD-1801910839876035"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Au Fauteuil",
+    "category": "coiffeur",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "",
+    "email": "th.simon33@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/33/bordeaux/au-fauteuil-acb",
+      "http://www.facebook.com/aufauteuil"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "BARB'n'HAIR pour les femmes",
+    "category": "coiffeur",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "",
+    "email": "minard.jennifer@hotmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/33/bordeaux/barb-n-hair-pour-les-femmes-acw",
+      "http://www.facebook.com/barbnhair"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Empreinte By Alkev",
+    "category": "coiffeur",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "",
+    "email": "empreinte.coiff@club-internet.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/31/toulouse/empreinte-by-alkev-9mr",
+      "https://www.facebook.com/Empreinte-Coiffure-FanPage-2016--1003618353004247"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Anne-Marie Fau",
+    "category": "coiffeur",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "",
+    "email": "fau.jeanpaul@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/31/toulouse/anne-marie-fau-1bo5",
+      "http://www.facebook.com/pages/Anne-Marie-Fau/350381188827647"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "SARL Thomas Julien",
+    "category": "coiffeur",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "",
+    "email": "salonthomasjulien@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/33/bordeaux/sarl-thomas-julien-awl",
+      "http://www.facebook.com/Salon-Thomas-Julien-1549146702015056"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Artistic Coiffure",
+    "category": "coiffeur",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "",
+    "email": "033melyssa_coiffure.sarl@mail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/33/bordeaux/artistic-coiffure-1crz",
+      "http://www.facebook.com/pages/Artistic-Coiffure/1461576400821516"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Boxe Hair Coiffure",
+    "category": "coiffeur",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "",
+    "email": "slimane.ettalib@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/33/bordeaux/boxe-hair-coiffure-ae8"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Nice Hair",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "",
+    "email": "nice-hair@outlook.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/nice-hair-fyp",
+      "https://www.facebook.com/nicehairforherforhimforyou"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Atelier Coiffure",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "",
+    "email": "fouadlins@yahoo.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/atelier-coiffure-2jcb"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Figaro",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "",
+    "email": "sarlfigaro@sfr.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/figaro-fr8",
+      "http://www.facebook.com/pages/Paule-Coiffure/692268267624566"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Andy",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "",
+    "email": "virginiepicosson@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/andy-frv",
+      "http://www.facebook.com/andycoiffure"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Sorong Coiffure homme barbier",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "",
+    "email": "martinsorong@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/sorong-coiffure-homme-barbier-1fpg"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Au Petit Salon",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "",
+    "email": "aupetitsalon44100@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/au-petit-salon-g6r",
+      "https://www.facebook.com/aupetitsalonbuttesteanne"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Au Petit Salon st Félix",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "",
+    "email": "alice.lepetit@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/au-petit-salon-st-felix-21b0",
+      "http://www.facebook.com/pages/category/Beauty-Salon/Au-Petit-Salon-Saint-F%C3%A9lix-290359365137391/"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Avant-Première Coiffure",
+    "category": "coiffeur",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "",
+    "email": "stephan.leray@numericable.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/nantes/avant-premiere-coiffure-g5i"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Solennzara",
+    "category": "coiffeur",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "",
+    "email": "solennzara@live.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/rennes/solennzara-c6d",
+      "http://www.facebook.com/solennzaracoiffure"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Ronan Artisan Coiffeur Zola",
+    "category": "coiffeur",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "",
+    "email": "elronan@hormail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/rennes/ronan-artisan-coiffeur-zola-c58",
+      "http://www.facebook.com/ronanartisancoiffeur"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Bulles d'Hair",
+    "category": "coiffeur",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "",
+    "email": "optimistique@neuf.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/rennes/bulles-d-hair-c1e"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Alain Coiffure",
+    "category": "coiffeur",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "",
+    "email": "carole.gaucher@geirec.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/rennes/alain-coiffure-byt"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Amary",
+    "category": "coiffeur",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "",
+    "email": "amarycoiffure@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/rennes/amary-bz2"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Tête en l'Hair",
+    "category": "coiffeur",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "",
+    "email": "dan.dug@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/67/strasbourg/tete-en-l-hair-q83",
+      "http://www.facebook.com/pages/Coiffure-Jacky/1863114257286509"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Atelier 18",
+    "category": "coiffeur",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "",
+    "email": "latelier18.rennes@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/rennes/atelier-18-byb"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Amazone",
+    "category": "coiffeur",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "",
+    "email": "boulomarina@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/rennes/amazone-c7l"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Adam Coiffure - Barbier",
+    "category": "coiffeur",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "",
+    "email": "adamlk67@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/67/strasbourg/adam-coiffure-barbier-q9e",
+      "http://www.facebook.com/Adam-Coiffure-Barbier-541027949311346"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Villa 13",
+    "category": "coiffeur",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "",
+    "email": "maximeazayapro@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/67/strasbourg/villa-13-q2t"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Annie Coiffure",
+    "category": "coiffeur",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "",
+    "email": "cgramain@ics-sa.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/67/strasbourg/annie-coiffure-1mdq"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Salon de Paris",
+    "category": "coiffeur",
+    "city": "Lille",
+    "country": "France",
+    "phone": "",
+    "email": "salondeparis@skyrock.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/59/lille/salon-de-paris-ls6",
+      "http://www.facebook.com/pages/category/Beauty--Cosmetic---Personal-Care/Salon-de-Paris-Lille-273578912655103/"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Art Coiffure",
+    "category": "coiffeur",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "",
+    "email": "barometresocial@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/67/strasbourg/art-coiffure-qa0",
+      "http://www.facebook.com/ART-Coiffure-393535864093560"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Art'System",
+    "category": "coiffeur",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "",
+    "email": "eric.lienard0329@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/67/strasbourg/art-system-q7b"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Alexandre Bruno",
+    "category": "coiffeur",
+    "city": "Lille",
+    "country": "France",
+    "phone": "",
+    "email": "pattoualexandre@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/59/lille/alexandre-bruno-2ri6"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Ventadour",
+    "category": "coiffeur",
+    "city": "Montpellier",
+    "country": "France",
+    "phone": "",
+    "email": "gmcoiffure@gmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/montpellier/ventadour-bcs",
+      "http://www.facebook.com/GMoiffurecreation"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Vague A Lame Coiffures",
+    "category": "coiffeur",
+    "city": "Montpellier",
+    "country": "France",
+    "phone": "",
+    "email": "vaguealamecoif@aol.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/montpellier/vague-a-lame-coiffures-brw"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Agnès Soronellas",
+    "category": "coiffeur",
+    "city": "Montpellier",
+    "country": "France",
+    "phone": "",
+    "email": "agnessoro@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/montpellier/agnes-soronellas-bsr",
+      "http://www.facebook.com/Agnes-Sorronella-1766665326761229"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "A.Z Coiffure",
+    "category": "coiffeur",
+    "city": "Montpellier",
+    "country": "France",
+    "phone": "",
+    "email": "zbairi.a@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/montpellier/a-z-coiffure-1czr"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Arrais Coiffure",
+    "category": "coiffeur",
+    "city": "Montpellier",
+    "country": "France",
+    "phone": "",
+    "email": "arrais.coiffure@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/montpellier/arrais-coiffure-2plq"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "La Suite By Claire",
+    "category": "coiffeur",
+    "city": "Montpellier",
+    "country": "France",
+    "phone": "",
+    "email": "clairepeyrolade@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/montpellier/la-suite-by-claire-bj8",
+      "http://www.facebook.com/salonlasuitemontpellier/"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Attrac'tif",
+    "category": "coiffeur",
+    "city": "Montpellier",
+    "country": "France",
+    "phone": "",
+    "email": "sabrinabenasid84@laposte.net",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/montpellier/attrac-tif-1db0",
+      "http://www.facebook.com/pages/Attractif/762462490578998"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Atelier 9 Coiffure",
+    "category": "coiffeur",
+    "city": "Montpellier",
+    "country": "France",
+    "phone": "",
+    "email": "atelier9coiffure@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/montpellier/atelier-9-coiffure-2krc",
+      "https://www.facebook.com/Atelier9coiffure"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Au Jeu de Paume Coiffure",
+    "category": "coiffeur",
+    "city": "Montpellier",
+    "country": "France",
+    "phone": "",
+    "email": "josiane.silvestre@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/montpellier/au-jeu-de-paume-coiffure-1w7w"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Amf Coiffure",
+    "category": "coiffeur",
+    "city": "Montpellier",
+    "country": "France",
+    "phone": "",
+    "email": "sonia.fredj@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/montpellier/amf-coiffure-1dmz"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Le Salon",
+    "category": "coiffeur",
+    "city": "Nice",
+    "country": "France",
+    "phone": "",
+    "email": "lesalonbygianni@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/06/nice/le-salon-16c9",
+      "http://www.facebook.com/pages/Le-Salonbygianni/183520291786353"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "Xena Coiffure",
+    "category": "coiffeur",
+    "city": "Nice",
+    "country": "France",
+    "phone": "",
+    "email": "ferrocarol.xenacoiffure@sfr.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/06/nice/xena-coiffure-mse",
+      "http://www.facebook.com/XENA-Coiffure-525805560897839"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "David & Laurent",
+    "category": "coiffeur",
+    "city": "Nice",
+    "country": "France",
+    "phone": "",
+    "email": "davidlaurent06000@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/06/nice/david-laurent-m73"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "LM Coiffure",
+    "category": "coiffeur",
+    "city": "Nice",
+    "country": "France",
+    "phone": "",
+    "email": "laurencemarioli@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/06/nice/lm-coiffure-me8"
+    ],
+    "sender": "storestarnet@gmail.com"
+  },
+  {
+    "name": "45Th Barber Street",
+    "category": "coiffeur",
+    "city": "Nice",
+    "country": "France",
+    "phone": "",
+    "email": "rachid.l@live.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "emailedAt": "2026-09-08T15:24:39Z",
+    "replied": false,
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/06/nice/45th-barber-street-2rjq"
+    ],
+    "sender": "storestarnet@gmail.com"
+  }
+]
