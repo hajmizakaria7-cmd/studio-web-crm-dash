@@ -2476,11 +2476,912 @@
     "email": "lmcafepoitiers@gmail.com",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Declined: cumul emploi-retraite / fin de vie commerciale (James Lay)",
+    "notes": "Declined: cumul emploi-retraite / fin de vie commerciale (James Lay) | Soft decline (retraite); closed 2026-09-08.",
     "emailedAt": "2026-09-08T14:55:34.000Z",
     "replied": true,
     "repliedAt": "2026-09-08T15:32:07.000Z",
     "score": 80,
     "sourceUrls": []
+  },
+  {
+    "name": "Studio 3eme Art",
+    "category": "studio photo",
+    "city": "Mulhouse",
+    "country": "France",
+    "phone": "",
+    "email": "fattizzomelissa6@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Soft decline 2026-09-09; polite close sent.",
+    "score": 80,
+    "sourceUrls": [],
+    "emailedAt": "2026-09-08T00:00:00Z",
+    "replied": true
+  },
+  {
+    "name": "Coiffure de l'Oratoire",
+    "category": "coiffeur",
+    "city": "Caen",
+    "country": "France",
+    "phone": "",
+    "email": "annelise.rochette@laposte.net",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "m=15&amp;size=564x280\" alt=\"Plan de Coiffure de l&#039;Oratoire, 3 Rue de l&#039;Oratoire, 14000 Caen. 3 Rue de l'Oratoire 14000. Email public on icoiffeur; no Site web/FB/Planity listed. SIRET 39431992500019.",
+    "score": 82,
+    "sourceUrls": [
+      "https://icoiffeur.fr/14/caen/coiffure-de-l-oratoire-2ky"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Zig-Zag Coiffure",
+    "category": "coiffeur",
+    "city": "Caen",
+    "country": "France",
+    "phone": "",
+    "email": "carolehamel@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/zig-zag-coiffure-14000-caen",
+    "notes": "1819,-0.3679&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Zig-Zag Coiffure, 11 Rue Ecuyère, 14000 Caen. 11 Rue Ecuyère 14000. Email on icoiffeur; Planity+FB/IG only. SIRET 44325222600024.",
+    "score": 81,
+    "sourceUrls": [
+      "https://icoiffeur.fr/14/caen/zig-zag-coiffure-18o2",
+      "https://www.planity.com/zig-zag-coiffure-14000-caen"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Haute Coiffure",
+    "category": "coiffeur",
+    "city": "Angers",
+    "country": "France",
+    "phone": "",
+    "email": "mireille.hautecoiffure@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://fr-fr.facebook.com/pages/category/Hair-Salon/Haute-Coiffure-Mireille-653776498106613",
+    "notes": "7.468,-0.5546&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Haute Coiffure, 29 Rue des Lices, 49100 Angers. 29 Rue des Lices 49100. Email+Facebook on icoiffeur; no standalone site. SIRET 49919922200013.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/49/angers/haute-coiffure-hb9"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Côté Salon",
+    "category": "coiffeur",
+    "city": "Angers",
+    "country": "France",
+    "phone": "",
+    "email": "apiton49@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://fr-fr.facebook.com/cotesalonangers",
+    "notes": "7.4664,-0.5527&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Côté Salon, 1 Bis Rue Paul Bert, 49100 Angers. 1 Bis Rue Paul Bert 49100. Email+Facebook on icoiffeur; no standalone site. SIRET 75039709300014.",
+    "score": 82,
+    "sourceUrls": [
+      "https://icoiffeur.fr/49/angers/cote-salon-1gut"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Electric Auto Reims",
+    "category": "garage/auto",
+    "city": "Reims",
+    "country": "France",
+    "phone": "",
+    "email": "electricauto51@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://facebook.com/Electricauto51/",
+    "notes": "642,4.0608&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Electric Auto Reims, 13 Rue de Nice, 51100 Reims. 13 Rue de Nice 51100. Email+Facebook on lesgarages; no standalone site. SIRET 34512643700010.",
+    "score": 84,
+    "sourceUrls": [
+      "https://lesgarages.fr/51/reims/electric-auto-reims-22im"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Garage Gamain Cédric",
+    "category": "garage/auto",
+    "city": "Amiens",
+    "country": "France",
+    "phone": "",
+    "email": "garage.gamain@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://web.facebook.com/garage.gamain.amiens",
+    "notes": "65&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Garage Gamain Cédric, 376 Chau. Jules Ferry, 80090 Amiens. 376 Chau. Jules Ferry 80090. Email on lesgarages; LaCentrale pros listing + FB only (not own site). SIRET 32754478900016.",
+    "score": 91,
+    "sourceUrls": [
+      "https://lesgarages.fr/80/amiens/garage-gamain-cedric-1hox",
+      "https://pros.lacentrale.fr/C049199/"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Mesdemoiselles M",
+    "category": "coiffeur",
+    "city": "Angers",
+    "country": "France",
+    "phone": "",
+    "email": "mesdemoisellesm.coiffure@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://fr-fr.facebook.com/MesdemoisellesM.coiffure.angers",
+    "notes": "528&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Mesdemoiselles M, 2 Place Maurice Saillant, 49100 Angers. 2 Place Maurice Saillant 49100. Email+Facebook on icoiffeur; no standalone site. SIRET 80386522900014.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/49/angers/mesdemoiselles-m-hgq"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "O Salon (Lollypop)",
+    "category": "coiffeur",
+    "city": "Angers",
+    "country": "France",
+    "phone": "",
+    "email": "clemence.chalumeau@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/lollypop-coiffure-intermarche-jacques-millot-49000-angers",
+    "notes": "s=47.4552,-0.535&amp;zoom=15&amp;size=564x280\" alt=\"Plan de O Salon, 19 Rue Charles Denis, 49000 Angers. 19 Rue Charles Denis 49000. Email on icoiffeur; Planity+FB only. SIRET 75161920600020.",
+    "score": 84,
+    "sourceUrls": [
+      "https://icoiffeur.fr/49/angers/o-salon-hfn",
+      "https://www.planity.com/lollypop-coiffure-intermarche-jacques-millot-49000-angers"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "De Mèche Avec Moi",
+    "category": "coiffeur",
+    "city": "Caen",
+    "country": "France",
+    "phone": "",
+    "email": "helenedumenil@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/de-meche-avec-moi-14000-caen-hka",
+    "notes": "alt=\"Plan de De Mèche Avec Moi - Coiffeur Végétal et Ecoresponsable, 82 Rue d&#039;Auge, 14000 Caen. 82 Rue d'Auge 14000. Email on icoiffeur; Planity+FB only. SIRET 44372779700021.",
+    "score": 87,
+    "sourceUrls": [
+      "https://icoiffeur.fr/14/caen/de-meche-avec-moi-coiffeur-vegetal-et-ecoresponsable-2mm"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Super Coiff",
+    "category": "coiffeur",
+    "city": "Caen",
+    "country": "France",
+    "phone": "",
+    "email": "maudcrevon@mailo.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/super-coiff-14000-caen",
+    "notes": "201,-0.3827&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Super Coiff, 31 Avenue Jean Monnet, 14000 Caen. 31 Avenue Jean Monnet 14000. Email on icoiffeur; Planity only. SIRET 80966286900019.",
+    "score": 91,
+    "sourceUrls": [
+      "https://icoiffeur.fr/14/caen/super-coiff-18fh"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Hair'Light ANJOU Martine",
+    "category": "coiffeur",
+    "city": "Caen",
+    "country": "France",
+    "phone": "",
+    "email": "martine.anjou@bbox.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/hairlight-14000-caen",
+    "notes": "om=15&amp;size=564x280\" alt=\"Plan de Hair&#039;Light ANJOU Martine, 1 place de la Liberté, 14000 Caen. 1 place de la Liberté 14000. Email on icoiffeur; Planity only. SIRET 50477546100016.",
+    "score": 91,
+    "sourceUrls": [
+      "https://icoiffeur.fr/14/caen/hair-light-anjou-martine-18ef"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "5ème Avenue",
+    "category": "coiffeur",
+    "city": "Nancy",
+    "country": "France",
+    "phone": "",
+    "email": "mylene.martin15@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://facebook.com/5%C3%A8me-avenue-coiffure-et-Esthetique-663295480478796/",
+    "notes": "markers=48.6851,6.16&amp;zoom=15&amp;size=564x280\" alt=\"Plan de 5ème Avenue, 49 Rue Laxou, 54000 Nancy. 49 Rue Laxou 54000. Email+Facebook on icoiffeur; no standalone site. SIRET 50414345400024.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/54/nancy/5eme-avenue-j6i"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "So Hair",
+    "category": "coiffeur",
+    "city": "Nancy",
+    "country": "France",
+    "phone": "",
+    "email": "coiffuresohair@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.kiute.fr/salon/so-hair-point-central-nancy",
+    "notes": "rs=48.6901,6.1847&amp;zoom=15&amp;size=564x280\" alt=\"Plan de So Hair, 7 Rue Saint Nicolas, 54000 Nancy. 7 Rue Saint Nicolas 54000. Email on icoiffeur; Kiute booking only. SIRET 82075603900013.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/54/nancy/so-hair-20kd"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Chez Jules",
+    "category": "coiffeur",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "phone": "",
+    "email": "chezjulespro@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/chez-jules-63000-clermont-ferrand",
+    "notes": "oom=15&amp;size=564x280\" alt=\"Plan de Chez Jules, 7 Rue du Maréchal de Lattre de Tassigny, 63000 Clermont-Ferrand. 7 Rue du Maréchal de Lattre de Tassigny 63000. Email on icoiffeur; Planity+Google business.site+FB only. SIRET 82960012100018.",
+    "score": 88,
+    "sourceUrls": [
+      "https://icoiffeur.fr/63/clermont-ferrand/chez-jules-23bb"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "De Mèche Avec Vous",
+    "category": "coiffeur",
+    "city": "Tours",
+    "country": "France",
+    "phone": "",
+    "email": "virginiebeschon@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/de-meche-avec-vous-37000-tours",
+    "notes": "823,0.6821&amp;zoom=15&amp;size=564x280\" alt=\"Plan de De Mèche Avec Vous, 107 Rue Lakanal, 37000 Tours. Email public on icoiffeur; Planity/FB/directory only. SIRET 79791982600017.",
+    "score": 87,
+    "sourceUrls": [
+      "https://icoiffeur.fr/37/tours/de-meche-avec-vous-cv2",
+      "https://www.planity.com/de-meche-avec-vous-37000-tours"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "ELEKI coiffure",
+    "category": "coiffeur",
+    "city": "Tours",
+    "country": "France",
+    "phone": "",
+    "email": "eleki.coiffure@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/eleki-coiffure-37000-tours",
+    "notes": "0.6951&amp;zoom=15&amp;size=564x280\" alt=\"Plan de ELEKI coiffure, 224 avenue de Grammont, 37000 Tours. Email public on icoiffeur; Planity/FB/directory only. SIRET 95301595500016.",
+    "score": 90,
+    "sourceUrls": [
+      "https://icoiffeur.fr/37/tours/eleki-coiffure-2s2y",
+      "https://www.planity.com/eleki-coiffure-37000-tours"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Au Salon de Julie",
+    "category": "coiffeur",
+    "city": "Le Havre",
+    "country": "France",
+    "phone": "",
+    "email": "ausalondejulie@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://facebook.com/Au-salon-de-Julie-130042013688045/",
+    "notes": "1614&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Au Salon de Julie, 63 Rue Auguste Blanqui, 76600 Le Havre. Email public on icoiffeur; Planity/FB/directory only. SIRET 50440156300011.",
+    "score": 80,
+    "sourceUrls": [
+      "https://icoiffeur.fr/76/le-havre/au-salon-de-julie-w41",
+      "https://facebook.com/Au-salon-de-Julie-130042013688045/"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "JOIGNANT Aurélie",
+    "category": "coiffeur",
+    "city": "Le Havre",
+    "country": "France",
+    "phone": "",
+    "email": "laly2k6@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "49.4927,0.1231&amp;zoom=15&amp;size=564x280\" alt=\"Plan de JOIGNANT Aurélie, 7 Rue Lesueur, 76600 Le Havre. Email public on icoiffeur; Planity/FB/directory only. SIRET 50243634800036.",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/76/le-havre/joignant-aurelie-1q3q"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Edi'Coiff",
+    "category": "coiffeur",
+    "city": "Pau",
+    "country": "France",
+    "phone": "",
+    "email": "sandrine.larquier@sfr.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/edicoiff-64000-pau",
+    "notes": "091,-0.3524&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Edi&#039;Coiff, 40 avenue de Buros, 64000 Pau. Email public on icoiffeur; Planity/FB/directory only. SIRET 43527363600025.",
+    "score": 83,
+    "sourceUrls": [
+      "https://icoiffeur.fr/64/pau/edi-coiff-pgj",
+      "https://www.planity.com/edicoiff-64000-pau"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Peaky",
+    "category": "barbershop",
+    "city": "Dijon",
+    "country": "France",
+    "phone": "",
+    "email": "peakybarber.21@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/peaky-barber-21000-dijon",
+    "notes": "ers=47.3229,5.0444&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Peaky, 32 Rue Chaudronnerie, 21000 Dijon. Email public on icoiffeur; Planity/FB/directory only. SIRET 89910945800013.",
+    "score": 83,
+    "sourceUrls": [
+      "https://icoiffeur.fr/21/dijon/peaky-2lht",
+      "https://www.planity.com/peaky-barber-21000-dijon"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Sa'Lys Coiffure",
+    "category": "coiffeur",
+    "city": "Dijon",
+    "country": "France",
+    "phone": "",
+    "email": "jonaina@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/salys-21000-dijon",
+    "notes": "9&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Sa&#039;Lys Coiffure, 152 avenue Jean Jaurès, 21000 Dijon. Email public on icoiffeur; Planity/FB/directory only. SIRET 88796256100015.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/21/dijon/sa-lys-coiffure-2mu5",
+      "https://www.planity.com/salys-21000-dijon"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Jouvence Coiffure",
+    "category": "coiffeur",
+    "city": "Dijon",
+    "country": "France",
+    "phone": "",
+    "email": "anne.serkizyan@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/jouvence-coiffure-21000-dijon-xho",
+    "notes": "7,5.0386&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Jouvence Coiffure, 24 Rue de Jouvence, 21000 Dijon. Email public on icoiffeur; Planity/FB/directory only. SIRET 80137350700012.",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/21/dijon/jouvence-coiffure-53t",
+      "https://www.planity.com/jouvence-coiffure-21000-dijon-xho"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "By Tarantino Metz",
+    "category": "coiffeur",
+    "city": "Metz",
+    "country": "France",
+    "phone": "",
+    "email": "claude.tarantino@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://facebook.com/bytarantinometz/",
+    "notes": "om=15&amp;size=564x280\" alt=\"Plan de By Tarantino Metz, 17 Avenue Leclerc de Hauteclocque, 57000 Metz. Email public on icoiffeur; Planity/FB/directory only. SIRET 48264817700012.",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/57/metz/by-tarantino-metz-khi",
+      "https://facebook.com/bytarantinometz/"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Citronelle",
+    "category": "coiffeur",
+    "city": "Metz",
+    "country": "France",
+    "phone": "",
+    "email": "citronelle-metz@caramail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/citronelle-57000-metz",
+    "notes": "kers=49.1111,6.1729&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Citronelle, 1 Rue Gambetta, 57000 Metz. Email public on icoiffeur; Planity/FB/directory only. SIRET 51295779600026.",
+    "score": 90,
+    "sourceUrls": [
+      "https://icoiffeur.fr/57/metz/citronelle-kiw",
+      "https://www.planity.com/citronelle-57000-metz"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Créa'tif",
+    "category": "coiffeur",
+    "city": "Metz",
+    "country": "France",
+    "phone": "",
+    "email": "plegrand1810@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://facebook.com/CreaTif-476452122509376",
+    "notes": "149,6.1788&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Créa&#039;tif, 8 Rue de la Fontaine, 57000 Metz. Email public on icoiffeur; Planity/FB/directory only. SIRET 33530090100014.",
+    "score": 81,
+    "sourceUrls": [
+      "https://icoiffeur.fr/57/metz/crea-tif-k7a",
+      "https://facebook.com/CreaTif-476452122509376"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Mus Coiffure",
+    "category": "coiffeur",
+    "city": "Poitiers",
+    "country": "France",
+    "phone": "",
+    "email": "muscoiffure.poitiers@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/mus-coiffure-86000-poitiers-ixy",
+    "notes": "0.3329&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Mus Coiffure, 12 Boulevard Pont Achard, 86000 Poitiers. Email public on icoiffeur; Planity/FB/directory only. SIRET 90356790700014.",
+    "score": 92,
+    "sourceUrls": [
+      "https://icoiffeur.fr/86/poitiers/mus-coiffure-2nc2",
+      "https://www.planity.com/mus-coiffure-86000-poitiers-ixy"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Belle et Bouclée",
+    "category": "coiffeur",
+    "city": "Poitiers",
+    "country": "France",
+    "phone": "",
+    "email": "belleetbouclee@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/belle-et-bouclee-86000-poitiers",
+    "notes": "566,0.3495&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Belle et Bouclée, 6 place de France, 86000 Poitiers. Email public on icoiffeur; Planity/FB/directory only. SIRET 81511348500016.",
+    "score": 91,
+    "sourceUrls": [
+      "https://icoiffeur.fr/86/poitiers/belle-et-bouclee-10qo",
+      "https://www.planity.com/belle-et-bouclee-86000-poitiers"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Maxime Coiffure 74",
+    "category": "barbershop",
+    "city": "Annecy",
+    "country": "France",
+    "phone": "",
+    "email": "leyla.berko99@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/maxime-coiffure-74-74000-annecy",
+    "notes": "6.1235&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Maxime Coiffure 74, 33 avenue de Genève, 74000 Annecy. Email public on icoiffeur; Planity/FB/directory only. SIRET 95083869800013.",
+    "score": 90,
+    "sourceUrls": [
+      "https://icoiffeur.fr/74/annecy/maxime-coiffure-74-2rfy",
+      "https://www.planity.com/maxime-coiffure-74-74000-annecy"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "L’atelier d’Angelina",
+    "category": "coiffeur",
+    "city": "Annecy",
+    "country": "France",
+    "phone": "",
+    "email": "colella.angelina91@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/latelier-dangelina",
+    "notes": "22&amp;zoom=15&amp;size=564x280\" alt=\"Plan de L’atelier d’Angelina, 1 Quai des Cordeliers, 74000 Annecy. Email public on icoiffeur; Planity/FB/directory only. SIRET 83082826500017.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/74/annecy/l-atelier-d-angelina-1yzp",
+      "https://www.planity.com/latelier-dangelina"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Amande et Noisette",
+    "category": "coiffeur",
+    "city": "Orléans",
+    "country": "France",
+    "phone": "",
+    "email": "emilie.hillairet@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/amande-et-noisette-45000-orleans",
+    "notes": "1.907&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Amande et Noisette, 274 Rue de Bourgogne, 45000 Orléans. Email public on icoiffeur; Planity/FB/directory only. SIRET 52107872500012.",
+    "score": 90,
+    "sourceUrls": [
+      "https://icoiffeur.fr/45/orleans/amande-et-noisette-1gdh",
+      "https://www.planity.com/amande-et-noisette-45000-orleans"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Père & fils",
+    "category": "coiffeur",
+    "city": "Orléans",
+    "country": "France",
+    "phone": "",
+    "email": "perefils.business@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/pere-fils-45000-orleans",
+    "notes": "amp;zoom=15&amp;size=564x280\" alt=\"Plan de Père &amp; fils, 98 Rue du Faubourg Saint-Jean, 45000 Orléans. Email public on icoiffeur; Planity/FB/directory only. SIRET 95319843900010.",
+    "score": 81,
+    "sourceUrls": [
+      "https://icoiffeur.fr/45/orleans/pere-fils-2rim",
+      "https://www.planity.com/pere-fils-45000-orleans"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Estrella",
+    "category": "coiffeur",
+    "city": "Orléans",
+    "country": "France",
+    "phone": "",
+    "email": "margauxsebille2a@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/estrella-45100-orleans#%26opi%3D79508299",
+    "notes": "s=47.888,1.9067&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Estrella, 79 Rue Eugène Turbat, 45100 Orléans. Email public on icoiffeur; Planity/FB/directory only. SIRET 91370874900019.",
+    "score": 88,
+    "sourceUrls": [
+      "https://icoiffeur.fr/45/orleans/estrella-2sjh",
+      "https://www.planity.com/estrella-45100-orleans#%26opi%3D79508299"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Oze Coiffure",
+    "category": "coiffeur",
+    "city": "Saint-Étienne",
+    "country": "France",
+    "phone": "",
+    "email": "julieberard42@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "s=45.4314,4.3908&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Oze Coiffure, 51 Rue Michelet, 42000 Saint-Étienne. Email public on icoiffeur; Planity/FB/directory only. SIRET 49506875100017.",
+    "score": 83,
+    "sourceUrls": [
+      "https://icoiffeur.fr/42/saint-etienne/oze-coiffure-f0q"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Mon coiffeur by franck. H",
+    "category": "coiffeur",
+    "city": "Toulon",
+    "country": "France",
+    "phone": "",
+    "email": "franckharel@me.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/hair-prod-by-f-h-mon-coiffeur-by-franck-83000-toulon",
+    "notes": "31&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Mon coiffeur by franck. H, Place 3 Dauphins, 83000 Toulon. Email public on icoiffeur; Planity/FB/directory only. SIRET 79989235100013.",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/83/toulon/mon-coiffeur-by-franck-h-yys",
+      "https://www.planity.com/hair-prod-by-f-h-mon-coiffeur-by-franck-83000-toulon"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Phimileo",
+    "category": "coiffeur",
+    "city": "Toulon",
+    "country": "France",
+    "phone": "",
+    "email": "toulonzola@frederic-moreno.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/le-bar-des-coiffeurs-paris-83000-toulon",
+    "notes": "rkers=43.1217,5.933&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Phimileo, 3 Rue Emile Zola, 83000 Toulon. Email public on icoiffeur; Planity/FB/directory only. SIRET 50794083100021.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/83/toulon/phimileo-zjt",
+      "https://www.planity.com/le-bar-des-coiffeurs-paris-83000-toulon"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "L'Atelier d'Audrey",
+    "category": "coiffeur",
+    "city": "Toulon",
+    "country": "France",
+    "phone": "",
+    "email": "audreypourret@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/latelier-daudrey-83200-toulon",
+    "notes": "zoom=15&amp;size=564x280\" alt=\"Plan de L&#039;Atelier d&#039;Audrey, 57 Av. De Bir-Hakeim, 83200 Toulon. Email public on icoiffeur; Planity/FB/directory only. SIRET 79232924500015.",
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/83/toulon/l-atelier-d-audrey-1s3k",
+      "https://www.planity.com/latelier-daudrey-83200-toulon"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Tendance Coiffure",
+    "category": "coiffeur",
+    "city": "Reims",
+    "country": "France",
+    "phone": "",
+    "email": "emeline.coiff@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/tendance-coiffure-51100-reims",
+    "notes": "67,4.0512&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Tendance Coiffure, 110 Rue du Chalet, 51100 Reims. Email public on icoiffeur; Planity/FB/directory only. SIRET 53129902200016.",
+    "score": 92,
+    "sourceUrls": [
+      "https://icoiffeur.fr/51/reims/tendance-coiffure-ij3",
+      "https://www.planity.com/tendance-coiffure-51100-reims"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Map Styl'Hair",
+    "category": "coiffeur",
+    "city": "Reims",
+    "country": "France",
+    "phone": "",
+    "email": "mapmapeye@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/map-stylhair-51100-reims",
+    "notes": "amp;zoom=15&amp;size=564x280\" alt=\"Plan de Map Styl&#039;Hair, 4 avenue Christophe Colomb, 51100 Reims. Email public on icoiffeur; Planity/FB/directory only. SIRET 84159782600012.",
+    "score": 91,
+    "sourceUrls": [
+      "https://icoiffeur.fr/51/reims/map-styl-hair-265s",
+      "https://www.planity.com/map-stylhair-51100-reims"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Salon Color Style coiffure",
+    "category": "coiffeur",
+    "city": "Reims",
+    "country": "France",
+    "phone": "",
+    "email": "tpoly@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/color-styl-51100-reims",
+    "notes": "1&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Salon Color Style coiffure, 68 Rue de Cernay, 51100 Reims. Email public on icoiffeur; Planity/FB/directory only. SIRET 81349301200021.",
+    "score": 90,
+    "sourceUrls": [
+      "https://icoiffeur.fr/51/reims/salon-color-style-coiffure-iaa",
+      "https://www.planity.com/color-styl-51100-reims"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Nouvelle Dimension",
+    "category": "coiffeur",
+    "city": "Reims",
+    "country": "France",
+    "phone": "",
+    "email": "nvl.dimension@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/nouvelle-dimension-51100-reims",
+    "notes": "0177&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Nouvelle Dimension, 143 Rue de Courcelles, 51100 Reims. Email public on icoiffeur; Planity/FB/directory only. SIRET 80020699700010.",
+    "score": 92,
+    "sourceUrls": [
+      "https://icoiffeur.fr/51/reims/nouvelle-dimension-1h40",
+      "https://www.planity.com/nouvelle-dimension-51100-reims"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Fam'us",
+    "category": "coiffeur",
+    "city": "Lille",
+    "country": "France",
+    "phone": "",
+    "email": "famuslille@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/famus-coiffeurs-designers-59000-lille",
+    "notes": "299,3.0615&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Fam&#039;us, 11 Rue Nicolas Leblanc, 59000 Lille. Email public on icoiffeur; Planity/FB/directory only. SIRET 49379793000028.",
+    "score": 92,
+    "sourceUrls": [
+      "https://icoiffeur.fr/59/lille/fam-us-24cn",
+      "https://www.planity.com/famus-coiffeurs-designers-59000-lille"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Design Hair",
+    "category": "coiffeur",
+    "city": "Lille",
+    "country": "France",
+    "phone": "",
+    "email": "lemarc59@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/design-hair-59800-lille",
+    "notes": "1,3.0581&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Design Hair, 83 Rue d&#039;Angleterre, 59000 Lille. Email public on icoiffeur; Planity/FB/directory only. SIRET 51371815500031.",
+    "score": 84,
+    "sourceUrls": [
+      "https://icoiffeur.fr/59/lille/design-hair-2p3e",
+      "https://www.planity.com/design-hair-59800-lille"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Le Prestige",
+    "category": "coiffeur",
+    "city": "Grenoble",
+    "country": "France",
+    "phone": "",
+    "email": "sophia.fethallah@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/le-prestige-38000-grenoble",
+    "notes": "45.1858,5.724&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Le Prestige, 41 Rue Lesdiguières, 38000 Grenoble. Email public on icoiffeur; Planity/FB/directory only. SIRET 53397023200021.",
+    "score": 81,
+    "sourceUrls": [
+      "https://icoiffeur.fr/38/grenoble/le-prestige-2ptp",
+      "https://www.planity.com/le-prestige-38000-grenoble"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "William L",
+    "category": "barbershop",
+    "city": "Grenoble",
+    "country": "France",
+    "phone": "",
+    "email": "williamlcoiffure@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/william-l-38000-grenoble",
+    "notes": "rkers=45.1889,5.7068&amp;zoom=15&amp;size=564x280\" alt=\"Plan de William L, 158 Cr Berriat, 38000 Grenoble. Email public on icoiffeur; Planity/FB/directory only. SIRET 88352114800014.",
+    "score": 80,
+    "sourceUrls": [
+      "https://icoiffeur.fr/38/grenoble/william-l-2kpp",
+      "https://www.planity.com/william-l-38000-grenoble"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Egerine",
+    "category": "coiffeur",
+    "city": "Grenoble",
+    "country": "France",
+    "phone": "",
+    "email": "malika-angelucci@email.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/egerine-grenoble-38000",
+    "notes": "p;markers=45.1885,5.7224&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Egerine, 5 Rue Thiers, 38000 Grenoble. Email public on icoiffeur; Planity/FB/directory only. SIRET 91459655600011.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/38/grenoble/egerine-2ow7",
+      "https://www.planity.com/egerine-grenoble-38000"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Infini Styl'Carole",
+    "category": "coiffeur",
+    "city": "Limoges",
+    "country": "France",
+    "phone": "",
+    "email": "carchristo.perrin@live.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "amp;zoom=15&amp;size=564x280\" alt=\"Plan de Infini Styl&#039;Carole, 28 Rue des Cerisiers, 01340 Bresse Vallons. Email public on icoiffeur; Planity/FB/directory only. SIRET 51833698700012.",
+    "score": 84,
+    "sourceUrls": [
+      "https://icoiffeur.fr/87/limoges/quai-n-7"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Au Boudoir",
+    "category": "coiffeur",
+    "city": "Béziers",
+    "country": "France",
+    "phone": "",
+    "email": "au.boudoir@outlook.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/au-boudoir-des-arenes-34500-beziers",
+    "notes": "8,3.2275&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Au Boudoir, 12 avenue Emile Claparède, 34500 Béziers. Email public on icoiffeur; Planity/FB/directory only. SIRET 51303642600023.",
+    "score": 92,
+    "sourceUrls": [
+      "https://icoiffeur.fr/34/beziers/au-boudoir-21es",
+      "https://www.planity.com/au-boudoir-des-arenes-34500-beziers"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "L'EXP-HAIR Perpignan",
+    "category": "coiffeur",
+    "city": "Perpignan",
+    "country": "France",
+    "phone": "",
+    "email": "lexphair.barber@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/lexphair-66100-perpignan",
+    "notes": "mp;zoom=15&amp;size=564x280\" alt=\"Plan de L&#039;EXP-HAIR Perpignan, 56 Rue Maréchal Foch, 66000 Perpignan. Email public on icoiffeur; Planity/FB/directory only. SIRET 92213526400013.",
+    "score": 81,
+    "sourceUrls": [
+      "https://icoiffeur.fr/66/perpignan/l-exp-hair-perpignan-2r9j",
+      "https://www.planity.com/lexphair-66100-perpignan"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Neuw Styl",
+    "category": "coiffeur",
+    "city": "Perpignan",
+    "country": "France",
+    "phone": "",
+    "email": "dmrcoiffurre@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/coiffure-new-style-66000-perpignan",
+    "notes": "s=42.6956,2.89&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Neuw Styl, 50 Rue Maréchal Foch, 66000 Perpignan. Email public on icoiffeur; Planity/FB/directory only. SIRET 75262632500019.",
+    "score": 85,
+    "sourceUrls": [
+      "https://icoiffeur.fr/66/perpignan/neuw-styl-2mix",
+      "https://www.planity.com/coiffure-new-style-66000-perpignan"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
+  },
+  {
+    "name": "Kalliste",
+    "category": "coiffeur",
+    "city": "Narbonne",
+    "country": "France",
+    "phone": "",
+    "email": "kallistespa@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/kalliste-11100-narbonne",
+    "notes": "1849,2.9943&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Kalliste, 17 avenue Anatole France, 11100 Narbonne. Email public on icoiffeur; Planity/FB/directory only. SIRET 90178314200028.",
+    "score": 88,
+    "sourceUrls": [
+      "https://icoiffeur.fr/11/narbonne/kalliste-2nfx",
+      "https://www.planity.com/kalliste-11100-narbonne"
+    ],
+    "emailedAt": "2026-09-09T08:29:09.000Z",
+    "replied": false
   }
 ]
