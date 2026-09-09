@@ -3383,5 +3383,864 @@
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
     "replied": false
+  },
+  {
+    "name": "WAVES",
+    "category": "coiffeur",
+    "city": "Besançon",
+    "country": "France",
+    "phone": "",
+    "email": "wavesconcept25@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/waves-25000-besancon",
+    "notes": "8 Rue Gustave Courbet, 25000 Besançon",
+    "score": 87,
+    "sourceUrls": [
+      "https://icoiffeur.fr/25/besancon/waves-2jv2",
+      "https://www.planity.com/waves-25000-besancon"
+    ],
+    "emailedAt": "2026-09-09T16:15:30Z",
+    "replied": false
+  },
+  {
+    "name": "O'Salon",
+    "category": "coiffeur",
+    "city": "Besançon",
+    "country": "France",
+    "phone": "",
+    "email": "kassemk182@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/osalon-25000-besancon",
+    "notes": "7 Rue Battant, 25000 Besançon",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/25/besancon/o-salon-2n0w",
+      "https://www.planity.com/osalon-25000-besancon"
+    ],
+    "emailedAt": "2026-09-09T16:15:30Z",
+    "replied": false
+  },
+  {
+    "name": "Daniel Coiffure",
+    "category": "coiffeur",
+    "city": "Besançon",
+    "country": "France",
+    "phone": "",
+    "email": "fannyduchanois@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/daniel-coiffure-25000-besancon",
+    "notes": "11 Rue Moncey, 25000 Besançon",
+    "score": 92,
+    "sourceUrls": [
+      "https://icoiffeur.fr/25/besancon/daniel-coiffure-2nyj",
+      "https://www.planity.com/daniel-coiffure-25000-besancon"
+    ],
+    "emailedAt": "2026-09-09T16:15:31Z",
+    "replied": false
+  },
+  {
+    "name": "225 barber",
+    "category": "barbershop",
+    "city": "Amiens",
+    "country": "France",
+    "phone": "",
+    "email": "barberamiens@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/225-barber-i-80000-amiens",
+    "notes": "225 barber, 20 Rue Saint-Jacques, 80000 Amiens",
+    "score": 83,
+    "sourceUrls": [
+      "https://icoiffeur.fr/80/amiens/225-barber-2cyb",
+      "https://www.planity.com/225-barber-i-80000-amiens"
+    ],
+    "emailedAt": "2026-09-09T16:15:45Z",
+    "replied": false
+  },
+  {
+    "name": "Le Petit Ciné",
+    "category": "coiffeur",
+    "city": "Mulhouse",
+    "country": "France",
+    "phone": "",
+    "email": "omarimadjadj@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/le-petit-cine-68200-mulhouse-4xg",
+    "notes": "7 avenue du Président Kennedy, 68200 Mulhouse",
+    "score": 81,
+    "sourceUrls": [
+      "https://icoiffeur.fr/68/mulhouse/le-petit-cine-qvm",
+      "https://www.planity.com/le-petit-cine-68200-mulhouse-4xg"
+    ],
+    "emailedAt": "2026-09-09T16:15:31Z",
+    "replied": false
+  },
+  {
+    "name": "L'éclat",
+    "category": "coiffeur",
+    "city": "Brest",
+    "country": "France",
+    "phone": "",
+    "email": "elodiecoroleur@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue Lacordaire à Brest Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/29/brest/l-eclat-2fw7"
+    ],
+    "emailedAt": "2026-09-09T16:16:00Z",
+    "replied": false
+  },
+  {
+    "name": "Ambiance Coiffure",
+    "category": "coiffeur",
+    "city": "Brest",
+    "country": "France",
+    "phone": "",
+    "email": "y.hall@free.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://fr-fr.facebook.com/AmbianceCoiffureBrest",
+    "notes": "rue Jean Jaurès à Brest Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/29/brest/ambiance-coiffure-84p"
+    ],
+    "emailedAt": "2026-09-09T16:16:01Z",
+    "replied": false
+  },
+  {
+    "name": "Le Salon du Prieuré",
+    "category": "coiffeur",
+    "city": "Quimper",
+    "country": "France",
+    "phone": "",
+    "email": "lou.sanceo11@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/Le-Salon-du-Prieur%C3%A9-1035406943203303/",
+    "notes": "pl. Denis Berardier à Quimper Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/29/quimper/le-salon-du-prieure-20l8"
+    ],
+    "emailedAt": "2026-09-09T16:16:01Z",
+    "replied": false
+  },
+  {
+    "name": "Quintessence",
+    "category": "coiffeur",
+    "city": "Saint-Nazaire",
+    "country": "France",
+    "phone": "",
+    "email": "dermy.laurent@yahoo.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "avenue de la République à Saint-Nazaire Email public on icoiffeur (ⓐ decoded). No standalone site listed. | standalone site found after send | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/saint-nazaire/quintessence-g1c"
+    ],
+    "emailedAt": "2026-09-09T16:16:01Z",
+    "replied": false
+  },
+  {
+    "name": "Alexandre Sportiello",
+    "category": "coiffeur",
+    "city": "Quimper",
+    "country": "France",
+    "phone": "",
+    "email": "alexandre29300@yahoo.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue du Dauphiné à Quimper Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/29/quimper/alexandre-sportiello-7sl"
+    ],
+    "emailedAt": "2026-09-09T16:16:01Z",
+    "replied": false
+  },
+  {
+    "name": "L'Instant présent",
+    "category": "coiffeur",
+    "city": "Quimper",
+    "country": "France",
+    "phone": "",
+    "email": "linstant_present@laposte.net",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/Linstant-pr%C3%A9sent-265046344352191/",
+    "notes": "rue de Stang Bihan à Quimper Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/29/quimper/l-instant-present-25eo"
+    ],
+    "emailedAt": "2026-09-09T16:16:20Z",
+    "replied": false
+  },
+  {
+    "name": "Barbershop44",
+    "category": "coiffeur",
+    "city": "Saint-Nazaire",
+    "country": "France",
+    "phone": "",
+    "email": "eustache.christine@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "avenue de Penhoët à Saint-Nazaire Email public on icoiffeur (ⓐ decoded). No standalone site listed. | standalone site found after send",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/saint-nazaire/barbershop44-2njl"
+    ],
+    "emailedAt": "2026-09-09T16:16:20Z",
+    "replied": false
+  },
+  {
+    "name": "Coiffure Mixte Lanveur",
+    "category": "coiffeur",
+    "city": "Lorient",
+    "country": "France",
+    "phone": "",
+    "email": "coiffuremixtelanveur@hey.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/coiffure-mixte-lanveur-56100-lorient",
+    "notes": "rue de Lanveur à Lorient Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/56/lorient/coiffure-mixte-lanveur-jo0",
+      "https://www.planity.com/coiffure-mixte-lanveur-56100-lorient"
+    ],
+    "emailedAt": "2026-09-09T16:16:21Z",
+    "replied": false
+  },
+  {
+    "name": "L'Hair Actuelle",
+    "category": "coiffeur",
+    "city": "Saint-Nazaire",
+    "country": "France",
+    "phone": "",
+    "email": "leduvalerie@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue Philibert Delorme à Saint-Nazaire Email public on icoiffeur (ⓐ decoded). No standalone site listed. | standalone site found after send",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/saint-nazaire/l-hair-actuelle-204y"
+    ],
+    "emailedAt": "2026-09-09T16:16:21Z",
+    "replied": false
+  },
+  {
+    "name": "FRANCOIS Rémi",
+    "category": "coiffeur",
+    "city": "Rouen",
+    "country": "France",
+    "phone": "",
+    "email": "francois_remi@hotmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/francois-remi-coiffure-76000-rouen",
+    "notes": "place Saint-Marc à Rouen Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/76/rouen/francois-remi-wck",
+      "https://www.planity.com/francois-remi-coiffure-76000-rouen"
+    ],
+    "emailedAt": "2026-09-09T16:18:40Z",
+    "replied": false
+  },
+  {
+    "name": "Styles et Créations",
+    "category": "coiffeur",
+    "city": "Vannes",
+    "country": "France",
+    "phone": "",
+    "email": "gordon.64@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "place des Lices à Vannes Email public on icoiffeur (ⓐ decoded). No standalone site listed. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/56/vannes/styles-et-creations-jhq"
+    ],
+    "emailedAt": "2026-09-09T16:17:30Z",
+    "replied": false
+  },
+  {
+    "name": "CANNEVIERE Patricia",
+    "category": "coiffeur",
+    "city": "Rouen",
+    "country": "France",
+    "phone": "",
+    "email": "pcanneviere@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue Brisout de Barneville à Rouen Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/76/rouen/canneviere-patricia-wf8"
+    ],
+    "emailedAt": "2026-09-09T16:17:31Z",
+    "replied": false
+  },
+  {
+    "name": "Studio 7",
+    "category": "coiffeur",
+    "city": "Vannes",
+    "country": "France",
+    "phone": "",
+    "email": "tiphainejouan56@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "avenue Georges Pompidou à Vannes Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/56/vannes/studio-7-2392"
+    ],
+    "emailedAt": "2026-09-09T16:17:32Z",
+    "replied": false
+  },
+  {
+    "name": "Accro-Coiffure au Féminin",
+    "category": "coiffeur",
+    "city": "Vannes",
+    "country": "France",
+    "phone": "",
+    "email": "bolo114-jarnofranck@yahoo.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://www.facebook.com/franck.jarno.94",
+    "notes": "rue Fourchêne 52 Centre Commercial Carrefour à Vannes Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/56/vannes/accro-coiffure-au-feminin-jm8"
+    ],
+    "emailedAt": "2026-09-09T16:17:32Z",
+    "replied": false
+  },
+  {
+    "name": "A'telier Nr 18",
+    "category": "coiffeur",
+    "city": "Vannes",
+    "country": "France",
+    "phone": "",
+    "email": "atelier-18@hotmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://fr-fr.facebook.com/Atelier-N-18-1946241828952645",
+    "notes": "rue Saint-Patern à Vannes Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/56/vannes/a-telier-nr-18-23ap"
+    ],
+    "emailedAt": "2026-09-09T16:17:32Z",
+    "replied": false
+  },
+  {
+    "name": "Hair Box",
+    "category": "coiffeur",
+    "city": "Lorient",
+    "country": "France",
+    "phone": "02 16 25 30 90",
+    "email": "b990011@dessange-international.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/hair-box-56100-lorient",
+    "notes": "38 Boulevard Cosmao Dumanoir, 56100 Lorient. Email public on icoiffeur (malto); no standalone Site web. Planity only → NONE. SIRET 48384000500019. | standalone site found after send",
+    "score": 91,
+    "sourceUrls": [
+      "https://icoiffeur.fr/56/lorient/hair-box-1hwe"
+    ],
+    "emailedAt": "2026-09-09T16:17:50Z",
+    "replied": false
+  },
+  {
+    "name": "BOLZER Véronique",
+    "category": "coiffeur",
+    "city": "Quimper",
+    "country": "France",
+    "phone": "02 16 25 30 90",
+    "email": "marco.bolzer0483@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "4 Bis Rue Jean Jaurès, 29000 Quimper. Email public on icoiffeur (malto); no standalone Site web. no Site web/FB/Planity listed → NONE. SIRET 33869132200022.",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/29/quimper/bolzer-veronique-89b"
+    ],
+    "emailedAt": "2026-09-09T16:17:51Z",
+    "replied": false
+  },
+  {
+    "name": "La Suite",
+    "category": "coiffeur",
+    "city": "Saint-Malo",
+    "country": "France",
+    "phone": "",
+    "email": "contact@lasuite-saintmalo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue Ville Pépin à Saint-Malo Email public on icoiffeur (ⓐ decoded). No standalone site listed. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/saint-malo/la-suite-2jae"
+    ],
+    "emailedAt": "2026-09-09T16:18:30Z",
+    "replied": false
+  },
+  {
+    "name": "Coiffeur Hommes Salon Mathis",
+    "category": "coiffeur",
+    "city": "Saint-Malo",
+    "country": "France",
+    "phone": "",
+    "email": "pliquetseb@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://www.facebook.com/pages/Salon-Mathis/201458680037025",
+    "notes": "boulevard de Rochebonne à Saint-Malo Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/saint-malo/coiffeur-hommes-salon-mathis-c5z"
+    ],
+    "emailedAt": "2026-09-09T16:18:30Z",
+    "replied": false
+  },
+  {
+    "name": "L'Atelier du 5",
+    "category": "coiffeur",
+    "city": "Saint-Malo",
+    "country": "France",
+    "phone": "",
+    "email": "beatrice.milin@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue Ange Fontan à Saint-Malo Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/saint-malo/l-atelier-du-5-225r"
+    ],
+    "emailedAt": "2026-09-09T16:18:30Z",
+    "replied": false
+  },
+  {
+    "name": "Secret de Coiffure",
+    "category": "coiffeur",
+    "city": "Saint-Malo",
+    "country": "France",
+    "phone": "",
+    "email": "jerome375@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "avenue du 47e Régiment Infanterie à Saint-Malo Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/saint-malo/secret-de-coiffure-c66"
+    ],
+    "emailedAt": "2026-09-09T16:15:30Z",
+    "replied": false
+  },
+  {
+    "name": "SnapCoupe",
+    "category": "coiffeur",
+    "city": "Lorient",
+    "country": "France",
+    "phone": "02 16 25 30 90",
+    "email": "corinne.dediego@laposte.net",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Salon de Coiffure, 10 Rue Paul Guieysse, 56100 Lorient. Email public on icoiffeur (malto); no standalone Site web. no Site web/FB/Planity listed → NONE. SIRET 89274603300018. | standalone site found after send",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/56/lorient/snapcoupe-2kz0"
+    ],
+    "emailedAt": "2026-09-09T16:15:31Z",
+    "replied": false
+  },
+  {
+    "name": "Studio 3",
+    "category": "coiffeur",
+    "city": "Saint-Malo",
+    "country": "France",
+    "phone": "",
+    "email": "stephaniedli@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue Saint-Sauveur à Saint-Malo Email public on icoiffeur (ⓐ decoded). No standalone site listed. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/saint-malo/studio-3-c6p"
+    ],
+    "emailedAt": "2026-09-09T16:15:32Z",
+    "replied": false
+  },
+  {
+    "name": "Le 107",
+    "category": "coiffeur",
+    "city": "Saint-Malo",
+    "country": "France",
+    "phone": "",
+    "email": "merylgoarin@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/le-107-35400-saint-malo",
+    "notes": "boulevard Chateaubriand à Saint-Malo Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/saint-malo/le-107-2jte",
+      "https://www.planity.com/le-107-35400-saint-malo"
+    ],
+    "emailedAt": "2026-09-09T16:15:33Z",
+    "replied": false
+  },
+  {
+    "name": "Ambition Studio",
+    "category": "coiffeur",
+    "city": "Saint-Malo",
+    "country": "France",
+    "phone": "",
+    "email": "ambitionstudio@outlook.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "boulevard des Talards à Saint-Malo Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/saint-malo/ambition-studio-2mvl"
+    ],
+    "emailedAt": "2026-09-09T16:15:34Z",
+    "replied": false
+  },
+  {
+    "name": "Atelier de Coiffure Karine",
+    "category": "coiffeur",
+    "city": "Saint-Malo",
+    "country": "France",
+    "phone": "",
+    "email": "hubert_karine.gardin@laposte.net",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue des 6 Fr Ruellan à Saint-Malo Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/saint-malo/atelier-de-coiffure-karine-14ce"
+    ],
+    "emailedAt": "2026-09-09T16:15:50Z",
+    "replied": false
+  },
+  {
+    "name": "SASU Platine Barber Shop",
+    "category": "coiffeur",
+    "city": "Vannes",
+    "country": "France",
+    "phone": "02 16 25 30 90",
+    "email": "celestinemartineau06@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "76 avenue du 4 Août 1944, 56000 Vannes. Email public on icoiffeur (malto); no standalone Site web. no Site web/FB/Planity listed → NONE. SIRET 87811645800018. | standalone site found after send",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/56/vannes/sasu-platine-barber-shop-2k3e"
+    ],
+    "emailedAt": "2026-09-09T16:15:51Z",
+    "replied": false
+  },
+  {
+    "name": "Claire Montier",
+    "category": "coiffeur",
+    "city": "Saint-Malo",
+    "country": "France",
+    "phone": "",
+    "email": "claire-montier@laposte.net",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://www.facebook.com/Montier-Claire-115347030379059/",
+    "notes": "rue Dauphine à Saint-Malo Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/saint-malo/claire-montier-2d80"
+    ],
+    "emailedAt": "2026-09-09T16:16:05Z",
+    "replied": false
+  },
+  {
+    "name": "Pacific Model's",
+    "category": "coiffeur",
+    "city": "La Rochelle",
+    "country": "France",
+    "phone": "",
+    "email": "pacificmodels@free.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://www.facebook.com/Pacific-Models-Coiffure-367940143279106/",
+    "notes": "rue Gambetta à La Rochelle Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/17/la-rochelle/pacific-model-s-18y5"
+    ],
+    "emailedAt": "2026-09-09T16:15:52Z",
+    "replied": false
+  },
+  {
+    "name": "Atelier Patrick",
+    "category": "coiffeur",
+    "city": "La Rochelle",
+    "country": "France",
+    "phone": "",
+    "email": "per.pat@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "avenue Jean Guiton à La Rochelle Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/17/la-rochelle/atelier-patrick-3fh"
+    ],
+    "emailedAt": "2026-09-09T16:15:53Z",
+    "replied": false
+  },
+  {
+    "name": "Ô Miroir",
+    "category": "coiffeur",
+    "city": "La Rochelle",
+    "country": "France",
+    "phone": "",
+    "email": "karltouraine@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://www.facebook.com/pages/category/Health-Beauty/%C3%94-Miroir-322668501417090/",
+    "notes": "rue du Minage à La Rochelle Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/17/la-rochelle/o-miroir-22p7"
+    ],
+    "emailedAt": "2026-09-09T16:16:20Z",
+    "replied": false
+  },
+  {
+    "name": "Eazy Coiff",
+    "category": "coiffeur",
+    "city": "Saint-Malo",
+    "country": "France",
+    "phone": "02 16 25 30 90",
+    "email": "juton.emilie@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "22 Place du Canada, 35400 Saint-Malo. Email public on icoiffeur (malto); no standalone Site web. no Site web/FB/Planity listed → NONE. SIRET 52023458400016. | standalone site found after send | bounce",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/35/saint-malo/eazy-coiff-1dyh"
+    ],
+    "emailedAt": "2026-09-09T16:16:21Z",
+    "replied": false
+  },
+  {
+    "name": "Le Coin des Nanas",
+    "category": "coiffeur",
+    "city": "La Rochelle",
+    "country": "France",
+    "phone": "",
+    "email": "maud1723@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.instagram.com/lecoindesnanaslarochelle/",
+    "notes": "rue Emile Normandin à La Rochelle Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/17/la-rochelle/le-coin-des-nanas-2o8u"
+    ],
+    "emailedAt": "2026-09-09T16:16:22Z",
+    "replied": false
+  },
+  {
+    "name": "FB Coiffure Coiffeur Visagiste",
+    "category": "coiffeur",
+    "city": "Niort",
+    "country": "France",
+    "phone": "02 16 25 30 90",
+    "email": "sellier.maud@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "1 A Rue Andre Maurois, 79000 Niort. Email public on icoiffeur (malto); no standalone Site web. no Site web/FB/Planity listed → NONE. SIRET 48918125500014. | standalone site found after send",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/79/niort/fb-coiffure-coiffeur-visagiste-xtx"
+    ],
+    "emailedAt": "2026-09-09T16:16:23Z",
+    "replied": false
+  },
+  {
+    "name": "Passion Coiffure",
+    "category": "coiffeur",
+    "city": "Niort",
+    "country": "France",
+    "phone": "",
+    "email": "christian.arnaud941@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "route d'Aiffres à Niort Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/79/niort/passion-coiffure-xok"
+    ],
+    "emailedAt": "2026-09-09T16:16:24Z",
+    "replied": false
+  },
+  {
+    "name": "Salon stylé Coiffure",
+    "category": "coiffeur",
+    "city": "Niort",
+    "country": "France",
+    "phone": "",
+    "email": "f.lebrault@cma-niort.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "avenue du Maréchal de Lattre de Tassigny à Niort Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/79/niort/salon-style-coiffure-xph"
+    ],
+    "emailedAt": "2026-09-09T16:16:40Z",
+    "replied": false
+  },
+  {
+    "name": "Amandine Mie - Coiffure Mixte",
+    "category": "coiffeur",
+    "city": "Niort",
+    "country": "France",
+    "phone": "",
+    "email": "amandine.mie@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://fr-fr.facebook.com/pages/category/Business-Service/amandine-coiffure-258947347477247",
+    "notes": "avenue de Limoges à Niort Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/79/niort/amandine-mie-coiffure-mixte-xqb"
+    ],
+    "emailedAt": "2026-09-09T16:16:41Z",
+    "replied": false
+  },
+  {
+    "name": "Les Coulisses Coiffure",
+    "category": "coiffeur",
+    "city": "Niort",
+    "country": "France",
+    "phone": "",
+    "email": "v.bremaud@cma-niort.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue Jules Siegfried à Niort Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/79/niort/les-coulisses-coiffure-xna"
+    ],
+    "emailedAt": "2026-09-09T16:16:42Z",
+    "replied": false
+  },
+  {
+    "name": "Coiff 'Marie",
+    "category": "coiffeur",
+    "city": "Niort",
+    "country": "France",
+    "phone": "",
+    "email": "coiffmarie79@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue Grand Port à Niort Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/79/niort/coiff-marie-xs9"
+    ],
+    "emailedAt": "2026-09-09T16:16:43Z",
+    "replied": false
+  },
+  {
+    "name": "Abadji Coiffure",
+    "category": "coiffeur",
+    "city": "Saint-Nazaire",
+    "country": "France",
+    "phone": "",
+    "email": "morphologisme@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://fr-fr.facebook.com/abadjicoiffure",
+    "notes": "boulevard Rene Coty à Saint-Nazaire Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | standalone site found after send",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/44/saint-nazaire/abadji-coiffure-1fs7"
+    ],
+    "emailedAt": "2026-09-09T16:16:44Z",
+    "replied": false
+  },
+  {
+    "name": "BH coiffure",
+    "category": "coiffeur",
+    "city": "La Roche-sur-Yon",
+    "country": "France",
+    "phone": "",
+    "email": "bhcoiffure@outlook.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "rue Sadi Carnot à La Roche-sur-Yon Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/85/la-roche-sur-yon/bh-coiffure-2snl"
+    ],
+    "emailedAt": "2026-09-09T16:17:30Z",
+    "replied": false
+  },
+  {
+    "name": "L’atelier de VIVI",
+    "category": "coiffeur",
+    "city": "Rouen",
+    "country": "France",
+    "phone": "",
+    "email": "latelierdevivi@icloud.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.planity.com/latelier-de-vivi-76100-rouen",
+    "notes": "rue Saint-Sever à Rouen Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/76/rouen/l-atelier-de-vivi-2she",
+      "https://www.planity.com/latelier-de-vivi-76100-rouen"
+    ],
+    "emailedAt": "2026-09-09T16:17:31Z",
+    "replied": false
+  },
+  {
+    "name": "Christine.D Coiffure",
+    "category": "coiffeur",
+    "city": "Rouen",
+    "country": "France",
+    "phone": "",
+    "email": "mc.gendre@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://web.facebook.com/ChristineD-Coiffure-1415872845369391",
+    "notes": "rue de l'Épicerie à Rouen Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/76/rouen/christine-d-coiffure-w6u"
+    ],
+    "emailedAt": "2026-09-09T16:17:32Z",
+    "replied": false
+  },
+  {
+    "name": "Asn 5 Hair",
+    "category": "coiffeur",
+    "city": "La Roche-sur-Yon",
+    "country": "France",
+    "phone": "",
+    "email": "stephane_morin@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "centre Commercial Les Oudairies à La Roche-sur-Yon Email public on icoiffeur (ⓐ decoded). No standalone site listed.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/85/la-roche-sur-yon/asn-5-hair-2nx9"
+    ],
+    "emailedAt": "2026-09-09T16:17:33Z",
+    "replied": false
+  },
+  {
+    "name": "Bien Etre en Couleurs",
+    "category": "coiffeur",
+    "city": "La Roche-sur-Yon",
+    "country": "France",
+    "phone": "",
+    "email": "bien-etre-en-couleurs@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://www.facebook.com/pages/Bien-%C3%AAtre-en-couleurs/484194524980171",
+    "notes": "rue Roger Salengro à La Roche-sur-Yon Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only.",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/85/la-roche-sur-yon/bien-etre-en-couleurs-10iw"
+    ],
+    "emailedAt": "2026-09-09T16:17:34Z",
+    "replied": false
   }
 ]
