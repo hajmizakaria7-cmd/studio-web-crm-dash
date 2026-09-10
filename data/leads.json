@@ -257,7 +257,7 @@
     "email": "info@boulangeriealbon.lat",
     "websiteStatus": "POOR",
     "websiteUrl": "https://boulangeriealbon.lat/",
-    "notes": "11 Rue Chavanne, 69001 Lyon; small artisan site. | bounce",
+    "notes": "11 Rue Chavanne, 69001 Lyon; small artisan site. | bounce | DSN bounce",
     "score": 88,
     "sourceUrls": [
       "https://boulangeriealbon.lat/"
@@ -360,7 +360,7 @@
     "email": "novalessio.paris@gmail.com",
     "websiteStatus": "POOR",
     "websiteUrl": "https://valessio-coiffeur-paris.fr/en/privacy-policy/",
-    "notes": "19 Rue de Châteaudun, 75009 Paris; phone not shown. | bounce",
+    "notes": "19 Rue de Châteaudun, 75009 Paris; phone not shown. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://valessio-coiffeur-paris.fr/en/privacy-policy/"
@@ -809,7 +809,7 @@
     "email": "colombecoiffure@yahoo.com",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Belgian company filing explicitly: no website; public email in statutes; Pagesdor listing | bounce",
+    "notes": "Belgian company filing explicitly: no website; public email in statutes; Pagesdor listing | bounce | DSN bounce",
     "emailedAt": "2026-09-08T08:20:07.000Z",
     "replied": false,
     "score": 90,
@@ -1702,7 +1702,7 @@
     "email": "fau.jeanpaul@orange.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com | DSN bounce",
     "emailedAt": "2026-09-08T15:24:39Z",
     "replied": false,
     "score": 85,
@@ -1740,7 +1740,7 @@
     "email": "033melyssa_coiffure.sarl@mail.com",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com | DSN bounce",
     "emailedAt": "2026-09-08T15:24:39Z",
     "replied": false,
     "score": 85,
@@ -1796,7 +1796,7 @@
     "email": "fouadlins@yahoo.com",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com | DSN bounce",
     "emailedAt": "2026-09-08T15:24:39Z",
     "replied": false,
     "score": 85,
@@ -2147,7 +2147,7 @@
     "email": "barometresocial@yahoo.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com | DSN bounce",
     "emailedAt": "2026-09-08T15:24:39Z",
     "replied": false,
     "score": 85,
@@ -2202,7 +2202,7 @@
     "email": "gmcoiffure@gmail.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com | DSN bounce",
     "emailedAt": "2026-09-08T15:24:39Z",
     "replied": false,
     "score": 85,
@@ -2221,7 +2221,7 @@
     "email": "vaguealamecoif@aol.com",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com | DSN bounce",
     "emailedAt": "2026-09-08T15:24:39Z",
     "replied": false,
     "score": 85,
@@ -2406,7 +2406,7 @@
     "email": "ferrocarol.xenacoiffure@sfr.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com",
+    "notes": "Public email on icoiffeur; no standalone site (FB/Planity/directories OK). City page hunt 2026-09-08. | sender:storestarnet@gmail.com | DSN bounce",
     "emailedAt": "2026-09-08T15:24:39Z",
     "replied": false,
     "score": 85,
@@ -4794,5 +4794,651 @@
     ],
     "emailedAt": "2026-09-10T08:46:18.000Z",
     "replied": false
+  },
+  {
+    "name": "Garage Blandin",
+    "category": "garage automobile",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "garage.blandin@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/garageblandinnantes",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 87280113900017. Listed link (network/dir): http://agents.peugeot.fr/blandin-nantes.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/44/nantes/garage-blandin-t6x"
+    ]
+  },
+  {
+    "name": "Garage de la Bastille",
+    "category": "garage automobile",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "garage.bastille@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 43994184000019.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/44/nantes/garage-de-la-bastille-1p1n"
+    ]
+  },
+  {
+    "name": "Garage de l'Abbaye",
+    "category": "garage automobile",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "lemaitre.wilfried@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 32608447200041. Listed link (network/dir): https://pros.lacentrale.fr/C032507/.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/44/nantes/garage-de-l-abbaye-2fst"
+    ]
+  },
+  {
+    "name": "AD Carrosserie RICHARD S.A.S",
+    "category": "garage automobile",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "cibema@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/Carrosserie-Richard-100947168380641/",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 86480014900014. Listed link (network/dir): https://www.ad.fr/garage/ad-carrosserie-richard.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/44/nantes/ad-carrosserie-richard-s-a-s-29l6"
+    ]
+  },
+  {
+    "name": "AD Garage Expert AUTOSERVICE BOUCARD",
+    "category": "garage automobile",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "ad-autoserviceboucard@sarl-boucard.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 40321727600019. Listed link (network/dir): https://www.ad.fr/garage/autoservice-ad-boucard.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/44/nantes/ad-garage-expert-autoservice-boucard-t6y"
+    ]
+  },
+  {
+    "name": "Garage Armenaud",
+    "category": "garage automobile",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "garagedeshautspaves@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://www.facebook.com/pages/Garage-Armenaud/781559088679204",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 52473926500014. Listed link (network/dir): http://garages.boschcarservice.fr/. | DSN bounce",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/44/nantes/garage-armenaud-1sb6"
+    ]
+  },
+  {
+    "name": "Garage Auto 98",
+    "category": "garage automobile",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "auto98@sfr.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://www.facebook.com/Garage-auto-98-451068168404530",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 81004920500026. Listed link (network/dir): http://www.facebook.com/Garage-auto-98-451068168404530.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/44/nantes/garage-auto-98-1yer"
+    ]
+  },
+  {
+    "name": "Garage Copernic",
+    "category": "garage automobile",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "administratif@copernic-nantes.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 30481643200013. Listed link (network/dir): http://www.renault.fr/. | DSN bounce",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/44/nantes/garage-copernic-t60"
+    ]
+  },
+  {
+    "name": "Lecour",
+    "category": "garage automobile",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "olivier.wild@outlook.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 35071359000023.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/31/toulouse/lecour-kqr"
+    ]
+  },
+  {
+    "name": "A.M.V AUTO - Necer",
+    "category": "garage automobile",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "amv31000@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://www.facebook.com/Garage-AMV-958628614250457",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 44962979900015. Listed link (network/dir): http://www.facebook.com/Garage-AMV-958628614250457.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/31/toulouse/a-m-v-auto-necer-kus"
+    ]
+  },
+  {
+    "name": "Garage des Saules",
+    "category": "garage automobile",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "ets.clement@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://www.facebook.com/Garage-Des-Saules-244693932408479",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 52806455300019. Listed link (network/dir): http://etablissementsclementautomobiles.site-solocal.com/.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/31/toulouse/garage-des-saules-1sfx"
+    ]
+  },
+  {
+    "name": "Car Size",
+    "category": "garage automobile",
+    "city": "Toulouse",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "carsize31100@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/carsize/",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 85045143600016. Listed link (network/dir): https://www.facebook.com/carsize/.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/31/toulouse/car-size-2bzi"
+    ]
+  },
+  {
+    "name": "Plombier DMS",
+    "category": "plombier",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33668758549",
+    "email": "plombierdms@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/plombier-dms-14452543.html"
+    ]
+  },
+  {
+    "name": "Schweig'Elec",
+    "category": "électricien",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33749645936",
+    "email": "schweigelec@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/schweig%27elec-34589908.html"
+    ]
+  },
+  {
+    "name": "Chauffage And Co",
+    "category": "chauffagiste",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33668334950",
+    "email": "chauffageandco@outlook.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/chauffage-and-co-14392744.html"
+    ]
+  },
+  {
+    "name": "BG Gaz SAS",
+    "category": "chauffagiste",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33251899086",
+    "email": "contact.bggaz@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/bg-gaz-sas-14045384.html"
+    ]
+  },
+  {
+    "name": "Plombier Strasbourg | RMAB Strasbourg",
+    "category": "plombier",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "0624716661",
+    "email": "rmab69contact@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/plombier-strasbourg---rmab-strasbourg-14620795.html"
+    ]
+  },
+  {
+    "name": "AEB +",
+    "category": "plombier",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33699790202",
+    "email": "aeb67000@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/aeb---14831125.html"
+    ]
+  },
+  {
+    "name": "Glausinger Alain",
+    "category": "plombier",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33388419842",
+    "email": "alain.glausinger@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/glausinger-alain-12957909.html"
+    ]
+  },
+  {
+    "name": "TRAD électricité",
+    "category": "électricien",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "0695919797",
+    "email": "khaled.trad67@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/trad-%c3%a9lectricit%c3%a9-14535713.html"
+    ]
+  },
+  {
+    "name": "A . C . E .",
+    "category": "électricien",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33679856091",
+    "email": "brodbeck.herve@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/a---c---e---14823624.html"
+    ]
+  },
+  {
+    "name": "D2 Chauffage Sanitaire",
+    "category": "chauffagiste",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33614713551",
+    "email": "d2chauffagesanitaire@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/d2-chauffage-sanitaire-13986833.html"
+    ]
+  },
+  {
+    "name": "Select Energy",
+    "category": "chauffagiste",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "0695752233",
+    "email": "contact@selectenergy.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 82,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/select-energy-14250443.html"
+    ]
+  },
+  {
+    "name": "L'Alsacienne de Serrurerie",
+    "category": "serrurier",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33769100914",
+    "email": "alsaserrurerie67@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on cylex-locale; no website listed.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 87,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/l%27alsacienne-de-serrurerie-13614580.html"
+    ]
+  },
+  {
+    "name": "Cortial Peinture",
+    "category": "peintre",
+    "city": "Privas",
+    "country": "France",
+    "phone": "04 75 29 60 15",
+    "email": "cortial.peinture@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 30 RUE DE L'ESPERANTO 07000 PRIVAS SIRET 49170944000011.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/132850611700940"
+    ]
+  },
+  {
+    "name": "Dam'S Peintures",
+    "category": "peintre",
+    "city": "Lussas",
+    "country": "France",
+    "phone": "04 75 94 28 10",
+    "email": "damspeintures@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 317 CHEMIN DE BOURGEON 07170 LUSSAS SIRET 75234763300014.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/137429804754044"
+    ]
+  },
+  {
+    "name": "Curt Peinture",
+    "category": "peintre",
+    "city": "Jasseron",
+    "country": "France",
+    "phone": "04 74 24 72 49",
+    "email": "contact@peinture-curt.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. ROUTE DE BOURG - LA PLAINE 01250 JASSERON SIRET 39816441800020.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/138121030037863"
+    ]
+  },
+  {
+    "name": "Le Peintre",
+    "category": "peintre",
+    "city": "Salers",
+    "country": "France",
+    "phone": "06 82 71 66 19",
+    "email": "lepeintre.sarl@yahoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 7 RUE DU PUY VIOLENT LES PRES DE FAURE 015140 SALERS SIRET 47780370400055.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/138121030804715"
+    ]
+  },
+  {
+    "name": "Menuiserie Richet",
+    "category": "menuisier",
+    "city": "Arcis-Sur-Aube",
+    "country": "France",
+    "phone": "03 25 37 81 28",
+    "email": "menuiserierichet@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 4 RUE VEUVE DUPONT RIGAULT 010700 ARCIS-SUR-AUBE SIRET 48277525100010.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/138207411709692"
+    ]
+  },
+  {
+    "name": "Mc Plaquistes",
+    "category": "plaquiste",
+    "city": "Montgailhard",
+    "country": "France",
+    "phone": "06 43 80 90 17",
+    "email": "mcplaquiste09@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 3 RUE DES MESURES 09330 MONTGAILHARD SIRET 98459954800018.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/138293821197093"
+    ]
+  },
+  {
+    "name": "Francois Platrerie Peinture",
+    "category": "peintre",
+    "city": "Vandeins",
+    "country": "France",
+    "phone": "06 51 10 31 63",
+    "email": "francoisplatrerie@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 8 LOTISSEMENT LE MARMONT 01660 VANDEINS SIRET 53785447300023.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/138898648826093"
+    ]
+  },
+  {
+    "name": "Guillemin Platrerie Peinture",
+    "category": "peintre",
+    "city": "Lapeyrouse",
+    "country": "France",
+    "phone": "04 74 98 14 65",
+    "email": "guillemin-platrerie-peinture@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 67 IMPASSE DU VERGER 01330 LAPEYROUSE SIRET 44198016600017.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 88,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/139244212727701"
+    ]
+  },
+  {
+    "name": "Bati Clean",
+    "category": "nettoyage",
+    "city": "Saint-Martin-Sur-Le-Pre",
+    "country": "France",
+    "phone": "07 60 21 22 58",
+    "email": "contact.baticlean@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. RUE DES GRANDS CHAMPS 051520 SAINT-MARTIN-SUR-LE-PRE SIRET 97817051200013.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 84,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/144614667702053"
+    ]
+  },
+  {
+    "name": "La Maison Auto-Nettoyante Saint Brieuc",
+    "category": "nettoyage",
+    "city": "Yffiniac",
+    "country": "France",
+    "phone": "02 96 76 85 50",
+    "email": "technitoit.stbrieuc@technitoit.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. LES BAS CHAMPS 4 RUE LUCIE ET RAYMOND AUBRAC 022120 YFFINIAC SIRET 50851375100034.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 84,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/154968988290730"
+    ]
+  },
+  {
+    "name": "Entreprise Generale Du Batiment Bruno Jardinet",
+    "category": "espaces verts",
+    "city": "Chateauneuf Sur Charente",
+    "country": "France",
+    "phone": "05 45 64 47 63",
+    "email": "contact@sarlbrunojardinet.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 3 ZA LA MEYNARDERIE 016120 CHATEAUNEUF SUR CHARENTE SIRET 80832223400036.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 84,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/159288984604952"
+    ]
+  },
+  {
+    "name": "Global Service",
+    "category": "autre service local",
+    "city": "Bastia",
+    "country": "France",
+    "phone": "06 16 44 31 46",
+    "email": "globalservice.batiment@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 7 ROUTE DE VILLE RESIDENCE LE COLOMBA 020200 BASTIA SIRET 53499446200024.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 84,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/137516221700153"
+    ]
+  },
+  {
+    "name": "Rb Services",
+    "category": "autre service local",
+    "city": "Coursan",
+    "country": "France",
+    "phone": "06 52 79 72 69",
+    "email": "contact@paracuellos.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 52 RUE GUSTAVE EIFFEL 011110 COURSAN SIRET 93488323200019.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 84,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/139762574243590"
+    ]
+  },
+  {
+    "name": "Alma Multiservices",
+    "category": "autre service local",
+    "city": "Saint-Marcel-D'Ardeche",
+    "country": "France",
+    "phone": "04 75 98 74 92",
+    "email": "christelrossignol22@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Public email on Hellio RGE; explicit no website. 795 CHEMIN DE LA POUDRIÈRE 07700 SAINT-MARCEL-D'ARDECHE SIRET 44789644000016.",
+    "emailedAt": "2026-09-10T15:59:52.000Z",
+    "replied": false,
+    "score": 84,
+    "sourceUrls": [
+      "https://rge.hellio.com/entreprises/139848970880084"
+    ]
   }
 ]
