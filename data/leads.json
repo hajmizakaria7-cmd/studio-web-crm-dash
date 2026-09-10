@@ -1267,13 +1267,14 @@
     "email": "alan1114-adelmoussayir@yahoo.com",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK. | DSN bounce",
     "emailedAt": "2026-09-08T10:35:41.000Z",
     "replied": false,
     "score": 85,
     "sourceUrls": [
       "https://icoiffeur.fr/44/nantes/mouss-hair-b-fy3"
-    ]
+    ],
+    "bounced": true
   },
   {
     "name": "Frédéric Coiffeur Créateur",
@@ -1357,14 +1358,15 @@
     "email": "ausalonnaturl@laposte.net",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK. | DSN bounce",
     "emailedAt": "2026-09-08T10:35:41.000Z",
     "replied": false,
     "score": 85,
     "sourceUrls": [
       "https://icoiffeur.fr/57/metz/au-salon-natur-l-2hh1",
       "https://facebook.com/ausalon.naturl"
-    ]
+    ],
+    "bounced": true
   },
   {
     "name": "De Vous A Moi",
@@ -1392,13 +1394,14 @@
     "email": "affirmatif.0007@free.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK.",
+    "notes": "Public email on icoiffeur; no standalone site (listing site=''); Facebook/Planity/directories OK. | DSN bounce",
     "emailedAt": "2026-09-08T10:35:41.000Z",
     "replied": false,
     "score": 85,
     "sourceUrls": [
       "https://icoiffeur.fr/84/avignon/affirmatif-1su8"
-    ]
+    ],
+    "bounced": true
   },
   {
     "name": "Arnaud Coiffure",
@@ -2507,13 +2510,14 @@
     "email": "annelise.rochette@laposte.net",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "m=15&amp;size=564x280\" alt=\"Plan de Coiffure de l&#039;Oratoire, 3 Rue de l&#039;Oratoire, 14000 Caen. 3 Rue de l'Oratoire 14000. Email public on icoiffeur; no Site web/FB/Planity listed. SIRET 39431992500019. | Bounce 2026-09-09 DSN failure",
+    "notes": "m=15&amp;size=564x280\" alt=\"Plan de Coiffure de l&#039;Oratoire, 3 Rue de l&#039;Oratoire, 14000 Caen. 3 Rue de l'Oratoire 14000. Email public on icoiffeur; no Site web/FB/Planity listed. SIRET 39431992500019. | Bounce 2026-09-09 DSN failure | DSN bounce",
     "score": 82,
     "sourceUrls": [
       "https://icoiffeur.fr/14/caen/coiffure-de-l-oratoire-2ky"
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Zig-Zag Coiffure",
@@ -2663,13 +2667,14 @@
     "email": "maudcrevon@mailo.com",
     "websiteStatus": "NONE",
     "websiteUrl": "https://www.planity.com/super-coiff-14000-caen",
-    "notes": "201,-0.3827&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Super Coiff, 31 Avenue Jean Monnet, 14000 Caen. 31 Avenue Jean Monnet 14000. Email on icoiffeur; Planity only. SIRET 80966286900019. | Bounce 2026-09-09 DSN failure",
+    "notes": "201,-0.3827&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Super Coiff, 31 Avenue Jean Monnet, 14000 Caen. 31 Avenue Jean Monnet 14000. Email on icoiffeur; Planity only. SIRET 80966286900019. | Bounce 2026-09-09 DSN failure | DSN bounce",
     "score": 91,
     "sourceUrls": [
       "https://icoiffeur.fr/14/caen/super-coiff-18fh"
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Hair'Light ANJOU Martine",
@@ -2680,13 +2685,14 @@
     "email": "martine.anjou@bbox.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "https://www.planity.com/hairlight-14000-caen",
-    "notes": "om=15&amp;size=564x280\" alt=\"Plan de Hair&#039;Light ANJOU Martine, 1 place de la Liberté, 14000 Caen. 1 place de la Liberté 14000. Email on icoiffeur; Planity only. SIRET 50477546100016. | Bounce 2026-09-09 DSN failure",
+    "notes": "om=15&amp;size=564x280\" alt=\"Plan de Hair&#039;Light ANJOU Martine, 1 place de la Liberté, 14000 Caen. 1 place de la Liberté 14000. Email on icoiffeur; Planity only. SIRET 50477546100016. | Bounce 2026-09-09 DSN failure | DSN bounce",
     "score": 91,
     "sourceUrls": [
       "https://icoiffeur.fr/14/caen/hair-light-anjou-martine-18ef"
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "5ème Avenue",
@@ -2891,14 +2897,15 @@
     "email": "claude.tarantino@orange.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "https://facebook.com/bytarantinometz/",
-    "notes": "om=15&amp;size=564x280\" alt=\"Plan de By Tarantino Metz, 17 Avenue Leclerc de Hauteclocque, 57000 Metz. Email public on icoiffeur; Planity/FB/directory only. SIRET 48264817700012. | Bounce 2026-09-09 DSN failure",
+    "notes": "om=15&amp;size=564x280\" alt=\"Plan de By Tarantino Metz, 17 Avenue Leclerc de Hauteclocque, 57000 Metz. Email public on icoiffeur; Planity/FB/directory only. SIRET 48264817700012. | Bounce 2026-09-09 DSN failure | DSN bounce",
     "score": 89,
     "sourceUrls": [
       "https://icoiffeur.fr/57/metz/by-tarantino-metz-khi",
       "https://facebook.com/bytarantinometz/"
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Citronelle",
@@ -2909,14 +2916,15 @@
     "email": "citronelle-metz@caramail.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "https://www.planity.com/citronelle-57000-metz",
-    "notes": "kers=49.1111,6.1729&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Citronelle, 1 Rue Gambetta, 57000 Metz. Email public on icoiffeur; Planity/FB/directory only. SIRET 51295779600026. | Bounce 2026-09-09 DSN failure",
+    "notes": "kers=49.1111,6.1729&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Citronelle, 1 Rue Gambetta, 57000 Metz. Email public on icoiffeur; Planity/FB/directory only. SIRET 51295779600026. | Bounce 2026-09-09 DSN failure | DSN bounce",
     "score": 90,
     "sourceUrls": [
       "https://icoiffeur.fr/57/metz/citronelle-kiw",
       "https://www.planity.com/citronelle-57000-metz"
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Créa'tif",
@@ -3106,14 +3114,15 @@
     "email": "toulonzola@frederic-moreno.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "https://www.planity.com/le-bar-des-coiffeurs-paris-83000-toulon",
-    "notes": "rkers=43.1217,5.933&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Phimileo, 3 Rue Emile Zola, 83000 Toulon. Email public on icoiffeur; Planity/FB/directory only. SIRET 50794083100021. | Bounce 2026-09-09 DSN failure",
+    "notes": "rkers=43.1217,5.933&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Phimileo, 3 Rue Emile Zola, 83000 Toulon. Email public on icoiffeur; Planity/FB/directory only. SIRET 50794083100021. | Bounce 2026-09-09 DSN failure | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/83/toulon/phimileo-zjt",
       "https://www.planity.com/le-bar-des-coiffeurs-paris-83000-toulon"
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "L'Atelier d'Audrey",
@@ -3178,14 +3187,15 @@
     "email": "tpoly@orange.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "https://www.planity.com/color-styl-51100-reims",
-    "notes": "1&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Salon Color Style coiffure, 68 Rue de Cernay, 51100 Reims. Email public on icoiffeur; Planity/FB/directory only. SIRET 81349301200021. | Bounce 2026-09-09 DSN failure",
+    "notes": "1&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Salon Color Style coiffure, 68 Rue de Cernay, 51100 Reims. Email public on icoiffeur; Planity/FB/directory only. SIRET 81349301200021. | Bounce 2026-09-09 DSN failure | DSN bounce",
     "score": 90,
     "sourceUrls": [
       "https://icoiffeur.fr/51/reims/salon-color-style-coiffure-iaa",
       "https://www.planity.com/color-styl-51100-reims"
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Nouvelle Dimension",
@@ -3286,14 +3296,15 @@
     "email": "malika-angelucci@email.com",
     "websiteStatus": "NONE",
     "websiteUrl": "https://www.planity.com/egerine-grenoble-38000",
-    "notes": "p;markers=45.1885,5.7224&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Egerine, 5 Rue Thiers, 38000 Grenoble. Email public on icoiffeur; Planity/FB/directory only. SIRET 91459655600011. | Bounce 2026-09-09 DSN failure",
+    "notes": "p;markers=45.1885,5.7224&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Egerine, 5 Rue Thiers, 38000 Grenoble. Email public on icoiffeur; Planity/FB/directory only. SIRET 91459655600011. | Bounce 2026-09-09 DSN failure | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/38/grenoble/egerine-2ow7",
       "https://www.planity.com/egerine-grenoble-38000"
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Infini Styl'Carole",
@@ -3500,13 +3511,14 @@
     "email": "y.hall@free.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "http://fr-fr.facebook.com/AmbianceCoiffureBrest",
-    "notes": "rue Jean Jaurès à Brest Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "notes": "rue Jean Jaurès à Brest Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/29/brest/ambiance-coiffure-84p"
     ],
     "emailedAt": "2026-09-09T16:16:01Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Le Salon du Prieuré",
@@ -3534,13 +3546,14 @@
     "email": "dermy.laurent@yahoo.com",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "avenue de la République à Saint-Nazaire Email public on icoiffeur (ⓐ decoded). No standalone site listed. | standalone site found after send | bounce",
+    "notes": "avenue de la République à Saint-Nazaire Email public on icoiffeur (ⓐ decoded). No standalone site listed. | standalone site found after send | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/44/saint-nazaire/quintessence-g1c"
     ],
     "emailedAt": "2026-09-09T16:16:01Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Alexandre Sportiello",
@@ -3568,13 +3581,14 @@
     "email": "linstant_present@laposte.net",
     "websiteStatus": "NONE",
     "websiteUrl": "https://www.facebook.com/Linstant-pr%C3%A9sent-265046344352191/",
-    "notes": "rue de Stang Bihan à Quimper Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "notes": "rue de Stang Bihan à Quimper Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/29/quimper/l-instant-present-25eo"
     ],
     "emailedAt": "2026-09-09T16:16:20Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Barbershop44",
@@ -3602,14 +3616,15 @@
     "email": "coiffuremixtelanveur@hey.com",
     "websiteStatus": "NONE",
     "websiteUrl": "https://www.planity.com/coiffure-mixte-lanveur-56100-lorient",
-    "notes": "rue de Lanveur à Lorient Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "notes": "rue de Lanveur à Lorient Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/56/lorient/coiffure-mixte-lanveur-jo0",
       "https://www.planity.com/coiffure-mixte-lanveur-56100-lorient"
     ],
     "emailedAt": "2026-09-09T16:16:21Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "L'Hair Actuelle",
@@ -3655,13 +3670,14 @@
     "email": "gordon.64@orange.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "place des Lices à Vannes Email public on icoiffeur (ⓐ decoded). No standalone site listed. | bounce",
+    "notes": "place des Lices à Vannes Email public on icoiffeur (ⓐ decoded). No standalone site listed. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/56/vannes/styles-et-creations-jhq"
     ],
     "emailedAt": "2026-09-09T16:17:30Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "CANNEVIERE Patricia",
@@ -3706,13 +3722,14 @@
     "email": "bolo114-jarnofranck@yahoo.com",
     "websiteStatus": "NONE",
     "websiteUrl": "http://www.facebook.com/franck.jarno.94",
-    "notes": "rue Fourchêne 52 Centre Commercial Carrefour à Vannes Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "notes": "rue Fourchêne 52 Centre Commercial Carrefour à Vannes Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/56/vannes/accro-coiffure-au-feminin-jm8"
     ],
     "emailedAt": "2026-09-09T16:17:32Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "A'telier Nr 18",
@@ -3774,13 +3791,14 @@
     "email": "contact@lasuite-saintmalo.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "rue Ville Pépin à Saint-Malo Email public on icoiffeur (ⓐ decoded). No standalone site listed. | bounce",
+    "notes": "rue Ville Pépin à Saint-Malo Email public on icoiffeur (ⓐ decoded). No standalone site listed. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/35/saint-malo/la-suite-2jae"
     ],
     "emailedAt": "2026-09-09T16:18:30Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Coiffeur Hommes Salon Mathis",
@@ -3859,13 +3877,14 @@
     "email": "stephaniedli@orange.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "rue Saint-Sauveur à Saint-Malo Email public on icoiffeur (ⓐ decoded). No standalone site listed. | bounce",
+    "notes": "rue Saint-Sauveur à Saint-Malo Email public on icoiffeur (ⓐ decoded). No standalone site listed. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/35/saint-malo/studio-3-c6p"
     ],
     "emailedAt": "2026-09-09T16:15:32Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Le 107",
@@ -3945,13 +3964,14 @@
     "email": "claire-montier@laposte.net",
     "websiteStatus": "NONE",
     "websiteUrl": "http://www.facebook.com/Montier-Claire-115347030379059/",
-    "notes": "rue Dauphine à Saint-Malo Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "notes": "rue Dauphine à Saint-Malo Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/35/saint-malo/claire-montier-2d80"
     ],
     "emailedAt": "2026-09-09T16:16:05Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Pacific Model's",
@@ -3962,13 +3982,14 @@
     "email": "pacificmodels@free.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "http://www.facebook.com/Pacific-Models-Coiffure-367940143279106/",
-    "notes": "rue Gambetta à La Rochelle Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "notes": "rue Gambetta à La Rochelle Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/17/la-rochelle/pacific-model-s-18y5"
     ],
     "emailedAt": "2026-09-09T16:15:52Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Atelier Patrick",
@@ -4013,13 +4034,14 @@
     "email": "juton.emilie@hotmail.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "",
-    "notes": "22 Place du Canada, 35400 Saint-Malo. Email public on icoiffeur (malto); no standalone Site web. no Site web/FB/Planity listed → NONE. SIRET 52023458400016. | standalone site found after send | bounce",
+    "notes": "22 Place du Canada, 35400 Saint-Malo. Email public on icoiffeur (malto); no standalone Site web. no Site web/FB/Planity listed → NONE. SIRET 52023458400016. | standalone site found after send | bounce | DSN bounce",
     "score": 89,
     "sourceUrls": [
       "https://icoiffeur.fr/35/saint-malo/eazy-coiff-1dyh"
     ],
     "emailedAt": "2026-09-09T16:16:21Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Le Coin des Nanas",
@@ -4098,13 +4120,14 @@
     "email": "amandine.mie@orange.fr",
     "websiteStatus": "NONE",
     "websiteUrl": "http://fr-fr.facebook.com/pages/category/Business-Service/amandine-coiffure-258947347477247",
-    "notes": "avenue de Limoges à Niort Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce",
+    "notes": "avenue de Limoges à Niort Email public on icoiffeur (ⓐ decoded). Planity/FB/IG only. | bounce | DSN bounce",
     "score": 86,
     "sourceUrls": [
       "https://icoiffeur.fr/79/niort/amandine-mie-coiffure-mixte-xqb"
     ],
     "emailedAt": "2026-09-09T16:16:41Z",
-    "replied": false
+    "replied": false,
+    "bounced": true
   },
   {
     "name": "Les Coulisses Coiffure",
@@ -4241,6 +4264,535 @@
       "https://icoiffeur.fr/85/la-roche-sur-yon/bien-etre-en-couleurs-10iw"
     ],
     "emailedAt": "2026-09-09T16:17:34Z",
+    "replied": false
+  },
+  {
+    "name": "Garage Lamour",
+    "category": "garage automobile",
+    "city": "Brest",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "garage.lamour@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 47806573300014. Listed link (network/dir): http://www.autoprimo.com/453457-garage-lamour. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/29/brest/garage-lamour-jo2"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Bleogat",
+    "category": "garage automobile",
+    "city": "Brest",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "bleogat@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 49071111600049. Listed link (network/dir): https://www.mondialparebrise.fr/trouver-mon-centre/mondial-pare-brise-brest. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/29/brest/bleogat-jm2"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Cejez Garage",
+    "category": "garage automobile",
+    "city": "Brest",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "cejezgarage@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 82777924000015. Listed link (network/dir): http://reseau.top-garage.fr/1019-cejez-garage. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/29/brest/cejez-garage-27b7"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Le Prestige Restauration et Garage",
+    "category": "garage automobile",
+    "city": "Rouen",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "leprestige.rg@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "http://fr-fr.facebook.com/pg/Garage-Le-Prestige-RG-271588489943737/about/",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 41109770200053. Listed link (network/dir): http://fr-fr.facebook.com/pg/Garage-Le-Prestige-RG-271588489943737/about/. | AM hajmi 2026-09-10 cold",
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/76/rouen/le-prestige-restauration-et-garage-2dm9"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "ADIPNEUS Services",
+    "category": "garage automobile",
+    "city": "Rouen",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "adipneusservices@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://m.facebook.com/adipneus/",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 81527817100013. Listed link (network/dir): https://m.facebook.com/adipneus/. | AM hajmi 2026-09-10 cold",
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/76/rouen/adipneus-services-274j"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Garage Saint Clément",
+    "category": "garage automobile",
+    "city": "Rouen",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "stephanie.villani@sfr.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 51363031900012. Listed link (network/dir): https://www.boschcarservice.com/fr/fr/devis-et-rendez-vous-en-ligne?#%2Fbooking%2Fclassic%2Flanding%3FcustomerId%3D76278426%26opi%3D79508299. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/76/rouen/garage-saint-clement-18rh"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "AD Garage Expert CENTRAL GARAGE - NICOLAS AUTOMOBILE",
+    "category": "garage automobile",
+    "city": "Rouen",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "ad.centralauto@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 34891608100022. Listed link (network/dir): https://www.ad.fr/garage/garage-ad-expert-central-garage-sarl-nicolas-automobile. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/76/rouen/ad-garage-expert-central-garage-nicolas-automobile-18rs"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Creations Automobiles",
+    "category": "garage automobile",
+    "city": "Rouen",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "ludivine.lebihan@hotmail.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 38229773700019. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/76/rouen/creations-automobiles-ht7"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Buiret Sébastien Auto",
+    "category": "garage automobile",
+    "city": "Dijon",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "buiretseb.auto@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/buiretseb",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 75144532100035. Listed link (network/dir): https://garage.top-garage.fr/fr/france-FR/CUST-098981/buiret-sebastien-auto/details. | AM hajmi 2026-09-10 cold",
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/21/dijon/buiret-sebastien-auto-2cjf"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Km Auto Pieces et Reparations",
+    "category": "garage automobile",
+    "city": "Dijon",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "kmautopieces@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 83458427800024. Listed link (network/dir): https://www.idgarages.com/fr-fr/garage/dijon/GA1758_km-auto-pieces-et-reparations. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/21/dijon/km-auto-pieces-et-reparations-2mwg"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Garage des MARRONNIERS",
+    "category": "garage automobile",
+    "city": "Nîmes",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "conceptex.mac@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 37888785500013. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/30/nimes/garage-des-marronniers-k0b"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Carrosserie du Cadereau",
+    "category": "garage automobile",
+    "city": "Nîmes",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "se.cadereau@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/carrosserieducadereau",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 33157735300013. Listed link (network/dir): https://www.facebook.com/carrosserieducadereau. | AM hajmi 2026-09-10 cold",
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/30/nimes/carrosserie-du-cadereau-2du0"
+    ],
+    "_src": "other-cats.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "B.A.G AUTOMOBILE - Garage Bastard",
+    "category": "garage automobile",
+    "city": "Tours",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "bagautomobile@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/garagebastardtours/",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 43246772800015. Listed link (network/dir): https://www.facebook.com/garagebastardtours/. | AM hajmi 2026-09-10 cold",
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/37/tours/b-a-g-automobile-garage-bastard-peh"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Touraine Carrosserie",
+    "category": "garage automobile",
+    "city": "Tours",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "tourainecar@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 68480060000018. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/37/tours/touraine-carrosserie-pei"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "AD Garage Expert DU NOUVEAU TOURS",
+    "category": "garage automobile",
+    "city": "Tours",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "compta.garagedunouveautours@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 39819612100014. Listed link (network/dir): https://www.ad.fr/garage/garage-ad-expert-garage-du-nouveau-tours. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/37/tours/ad-garage-expert-du-nouveau-tours-pfd"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Gérald Perez Peinture",
+    "category": "peintre",
+    "city": "Soulac-sur-Mer",
+    "country": "France",
+    "phone": "0685911180",
+    "email": "gerald-lepeintre@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "LinkedIn public; no standalone site found | AM hajmi 2026-09-10 cold",
+    "score": 72,
+    "sourceUrls": [
+      "https://www.linkedin.com/in/gerald-perez-44480678"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Le Saint Plombier",
+    "category": "plombier",
+    "city": "France",
+    "country": "France",
+    "phone": "",
+    "email": "lesaintplombier@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "cylex-locale no website | AM hajmi 2026-09-10 cold",
+    "score": 76,
+    "sourceUrls": [
+      "https://www.cylex-locale.fr/entreprises/le-saint-plombier-12619785.html"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Coiffeur (Gérard. Haute coiffure mixte)",
+    "category": "coiffeur",
+    "city": "Albi",
+    "country": "France",
+    "phone": "",
+    "email": "morenogerard@gmx.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/G%C3%A9rard-haute-coiffure-fran%C3%A7aise-113122399368586/",
+    "notes": "20 Rue de Verdusse, 81000 Albi; Email public on icoiffeur; no Site web / or only social; Facebook listed. | AM hajmi 2026-09-10 cold",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/81/albi/coiffeur-gerard-haute-coiffure-mixte-yla",
+      "https://www.facebook.com/G%C3%A9rard-haute-coiffure-fran%C3%A7aise-113122399368586/"
+    ],
+    "_src": "south-east.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Adem Coiff",
+    "category": "coiffeur",
+    "city": "Chalon-sur-Saône",
+    "country": "France",
+    "phone": "",
+    "email": "bassemrima4@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "78 avenue de Paris, 71100 Chalon-sur-Saône; Email public on icoiffeur; no Site web / or only social. | AM hajmi 2026-09-10 cold",
+    "score": 89,
+    "sourceUrls": [
+      "https://icoiffeur.fr/71/chalon-sur-saone/adem-coiff-2e8u"
+    ],
+    "_src": "south-east.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "A l'Image de Soie",
+    "category": "coiffeur",
+    "city": "Périgueux",
+    "country": "France",
+    "phone": "",
+    "email": "alimagedesoie@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "11 Rue Saint-Front, 24000 Périgueux; Email public on icoiffeur; no Site web / or only social. | AM hajmi 2026-09-10 cold",
+    "score": 81,
+    "sourceUrls": [
+      "https://icoiffeur.fr/24/perigueux/a-l-image-de-soie-19qg"
+    ],
+    "_src": "south-east.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Apparence Coiffure",
+    "category": "coiffeur",
+    "city": "Épinal",
+    "country": "France",
+    "phone": "",
+    "email": "sylvie.thiriet0485@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/apparencecoiffureepinal",
+    "notes": "31 Rue de Remiremont, 88000 Épinal; Email public on icoiffeur; no Site web / or only social; Facebook listed. | AM hajmi 2026-09-10 cold",
+    "score": 88,
+    "sourceUrls": [
+      "https://icoiffeur.fr/88/epinal/apparence-coiffure-11hp",
+      "https://www.facebook.com/apparencecoiffureepinal"
+    ],
+    "_src": "south-east.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Emy Coiffure",
+    "category": "coiffeur",
+    "city": "Albi",
+    "country": "France",
+    "phone": "",
+    "email": "emiliefilhol3@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "9 place du 19 Mars 1962, 81000 Albi; Email public on icoiffeur; no Site web / or only social. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://icoiffeur.fr/81/albi/emy-coiffure-2kdx"
+    ],
+    "_src": "south-east.json",
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Drive Auto Services",
+    "category": "garage automobile",
+    "city": "Tours",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "driveautoservice1528@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 82308210200018. Listed link (network/dir): https://www.idgarages.com/fr-fr/garage/tours/ga7483_auto-services. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/37/tours/drive-auto-services-2mko"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Garage Daviers",
+    "category": "garage automobile",
+    "city": "Angers",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "accueil.gge-daviers@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 41174018600019. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/49/angers/garage-daviers-u2d"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "AD Carrosserie MAHOT",
+    "category": "garage automobile",
+    "city": "Angers",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "sarl.mahotcyril@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 48415902500028. Listed link (network/dir): https://www.ad.fr/garage/ad-carrosserie-mahot. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/49/angers/ad-carrosserie-mahot-1q1m"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "AD Garage d'ANJOU",
+    "category": "garage automobile",
+    "city": "Angers",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "v.g49@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 39818176800027. Listed link (network/dir): https://www.ad.fr/garage/garage-ad-d-anjou. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/49/angers/ad-garage-d-anjou-1ne1"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "BOIVIN Patrice",
+    "category": "garage automobile",
+    "city": "Angers",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "autoboivin49@gmail.com",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 53453767500017. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/49/angers/boivin-patrice-v8p"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Carrosserie Perdreau-Garage des Cap",
+    "category": "garage automobile",
+    "city": "Angers",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "carrosserieperdreau@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "https://www.facebook.com/profile.php",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 52012782000014. Listed link (network/dir): https://www.facebook.com/profile.php. | AM hajmi 2026-09-10 cold",
+    "score": 88,
+    "sourceUrls": [
+      "https://lesgarages.fr/49/angers/carrosserie-perdreau-garage-des-cap-2eay"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Clogenson Automobile",
+    "category": "garage automobile",
+    "city": "Angers",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "clogenson@orange.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 48224023100019. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/49/angers/clogenson-automobile-u2c"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
+    "replied": false
+  },
+  {
+    "name": "Gaston Racing",
+    "category": "garage automobile",
+    "city": "Reims",
+    "country": "France",
+    "phone": "0216253090",
+    "email": "gaston.racing@wanadoo.fr",
+    "websiteStatus": "NONE",
+    "websiteUrl": "",
+    "notes": "Email public on lesgarages.fr; no standalone site. SIRET 48808796600013. | AM hajmi 2026-09-10 cold",
+    "score": 86,
+    "sourceUrls": [
+      "https://lesgarages.fr/51/reims/gaston-racing-1wk"
+    ],
+    "emailedAt": "2026-09-10T08:46:18.000Z",
     "replied": false
   }
 ]
