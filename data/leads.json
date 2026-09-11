@@ -2905,14 +2905,14 @@
     "email": "anne.serkizyan@gmail.com",
     "websiteStatus": "NONE",
     "websiteUrl": "https://www.planity.com/jouvence-coiffure-21000-dijon-xho",
-    "notes": "7,5.0386&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Jouvence Coiffure, 24 Rue de Jouvence, 21000 Dijon. Email public on icoiffeur; Planity/FB/directory only. SIRET 80137350700012. | J+2 2026-09-11",
+    "notes": "7,5.0386&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Jouvence Coiffure, 24 Rue de Jouvence, 21000 Dijon. Email public on icoiffeur; Planity/FB/directory only. SIRET 80137350700012. | J+2 2026-09-11 | Soft decline 2026-09-11 after J+2: je ne suis pas intéressée | polite close sent.",
     "score": 89,
     "sourceUrls": [
       "https://icoiffeur.fr/21/dijon/jouvence-coiffure-53t",
       "https://www.planity.com/jouvence-coiffure-21000-dijon-xho"
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
-    "replied": false,
+    "replied": true,
     "followUpJ2At": "2026-09-11T08:23:53.000Z"
   },
   {
@@ -3252,14 +3252,14 @@
     "email": "famuslille@gmail.com",
     "websiteStatus": "NONE",
     "websiteUrl": "https://www.planity.com/famus-coiffeurs-designers-59000-lille",
-    "notes": "299,3.0615&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Fam&#039;us, 11 Rue Nicolas Leblanc, 59000 Lille. Email public on icoiffeur; Planity/FB/directory only. SIRET 49379793000028.",
+    "notes": "299,3.0615&amp;zoom=15&amp;size=564x280\" alt=\"Plan de Fam&#039;us, 11 Rue Nicolas Leblanc, 59000 Lille. Email public on icoiffeur; Planity/FB/directory only. SIRET 49379793000028. | Soft decline 2026-09-11: pas intéressé | polite close sent.",
     "score": 92,
     "sourceUrls": [
       "https://icoiffeur.fr/59/lille/fam-us-24cn",
       "https://www.planity.com/famus-coiffeurs-designers-59000-lille"
     ],
     "emailedAt": "2026-09-09T08:29:09.000Z",
-    "replied": false
+    "replied": true
   },
   {
     "name": "Design Hair",
